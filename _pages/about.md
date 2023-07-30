@@ -13,12 +13,12 @@ This is the front page of a website that is powered by the [academicpages templa
 
 Education
 ======
-Masters in Water Resources, August 2022 - Present
-    Department of Natural Resources and Environment
-    University of Connecticut, storrs, CT
+Masters in Water Resources, August 2022 - Present \n
+    Department of Natural Resources and Environment \n
+    University of Connecticut, storrs, CT \n
     Advisor: James Knighton
 
-Bachelors in Civil Engineering, this - this
-    Department of Civil Engineering
-    Institute of Engineering, PUlchowk, Nepal 
+Bachelors in Civil Engineering, this - this \n
+    Department of Civil Engineering \n
+    Institute of Engineering, PUlchowk, Nepal \n
     Advisor: Ram Krishna Regmi

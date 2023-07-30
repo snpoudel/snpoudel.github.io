@@ -8,14 +8,17 @@ Talk about the roadmap of your experience [GitHub pages](https://pages.github.co
 
 Work Experience
 ======
-Graduate Research Assistant, Ecohydrology Lab at Uconn, August 2022 - Present
-    *this
-    *and that
+Graduate Research Assistant, August 2022 - Present \n
+Ecohydrology Lab, UConn, Storrs
+* this
+* that
 
-Civil (Hydraulic/Hydrologic) Engineer, Hydro-Consult Engineering Nepal, this - this
-    *this
-    *and that
+Civil (Hydraulic/Hydrologic) Engineer, this - this \n
+Hydro-Consult Engineering, Nepal
+* this
+* that
 
-Data Specialist, Cloud Factory Nepal, this - this
-    *this
-    *and that
+Data Specialist, this - this \n
+Cloud Factory, Nepal
+* this
+* that
