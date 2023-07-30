@@ -6,13 +6,16 @@ author_profile: true
 ---
 Talk about the roadmap of your experience [GitHub pages](https://pages.github.com).
 
-Experience
+Work Experience
 ======
-Graduate Research Assistant (August 2022 - Present)
-Ecohydrology Lab, UConn
+Graduate Research Assistant, Ecohydrology Lab at Uconn, August 2022 - Present
+    *this
+    *and that
 
-Hydraulic/Hydrologic Engineer (this to this)
-Hydro-Consult Engineering, Nepal
+Civil (Hydraulic/Hydrologic) Engineer, Hydro-Consult Engineering Nepal, this - this
+    *this
+    *and that
 
-Data Specialist (this to this)
-Cloud Factory, Nepal
+Data Specialist, Cloud Factory Nepal, this - this
+    *this
+    *and that
