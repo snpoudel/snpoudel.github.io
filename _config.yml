@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sandeep Poudel"
   avatar           : "profile.png"
-  bio              : "Masters student (Water Resources) at UConn, Graduate Research Assistant at UConn Ecohydrology Lab"
+  bio              : "Masters student at UConn"
   location         : "Storrs, CT"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/snpoudel"
+  github           : "snpoudel"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/sandeeppoudel/"
+  linkedin         : "sandeeppoudel"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/SandeepPoudel_"
+  twitter          : "SandeepPoudel_"
   vine             :
   weibo            :
   xing             :
