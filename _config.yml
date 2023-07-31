@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Sandeep Poudel"
   avatar           : "profile.png"
-  bio              : "Masters student at [UConn](https://uconn.edu)"
+  bio              : "Masters student at UConn"
   location         : "Storrs, CT"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=wMsDspYAAAAJ&hl=en&oi=sra"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
