@@ -13,7 +13,7 @@ Hi, I am Sandeep. I am a Masters student at [University of Connecticut](https://
 I grew up in Nepal and came to US for graduate studies.
 I have always been passionate about water, environment, climate, and using computatational techniques to workaround the problems in this regime. Courseworks, and projects during my undergraduate helped me decide my career in this field. Completing undergraduate, I worked in a engineering consulting for few years and then decided to pursue graduate studies.
 
-I plan to dedicate my career in the nexus of hydrolgy, climate change, and AI. I enjoy using machine learning, and data analytics techniques to study hydrological system and impacts of climate change.
+I enjoy using machine learning, and data analytics techniques to study hydrological system and impacts of climate change. I plan to dedicate my career in the nexus of hydrolgy, climate change, and AI.
 
 Education
 ======
