@@ -9,4 +9,4 @@ Merle S. Klink Building <br>
 Department of Natural Resources and Environment <br>
 University of Connecticut, Storrs
   
-Email: sandeep.poudel@uconn.edu
+Email: sandeep.poudel(at)uconn.edu

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Sandeep. I am a Masters student at [University of Connecticut] (https://uconn.edu/), and a graduate research assistant at the [Ecohydrology Lab] (http://www.jamesknightonhydrology.com/).
+Hi, I am Sandeep. I am a Masters student at [University of Connecticut](https://uconn.edu/), and a graduate research assistant at the [Ecohydrology Lab](http://www.jamesknightonhydrology.com/).
 
 I grew up in Nepal and came to US or graduate studies.
 
