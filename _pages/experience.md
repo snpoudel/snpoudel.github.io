@@ -6,11 +6,12 @@ author_profile: true
 ---
 I have diverse experience as a data specialist, intern engineer, civil (hydrologic/hydraulic) engineer, and research assistant. During my undergraduate studies, I worked part-time as a data specialist. Completing undergraduate, I began working as an intern engineer, from which I was promoted to civil (hydrologic/hydraulic) engineer. After nearly three years of industrial working experience, I joined UConn for graduate studies and started working as a graduate research assistant.
 
-I have a data-centric engineering background. I enjoy using computers/programming to make things simpler and efficient through computational thinking. I have a quantitative way of looking at things backed by statistics and mathematics. As a civil engineer, I have explored various terrains in Nepal for studies of hydropower and irrigation projects. Check out some of my favourite shots here.
+I have a data-centric engineering background. I enjoy using computers/programming to make things simpler and efficient through computational thinking. I have a quantitative way of looking at things backed by statistics and mathematics. As a civil engineer, I have explored various terrains in Nepal for studies of hydropower and irrigation projects. Check out some of my shots!
 
-|First Image|Second Image|
+|Narrow mountain foottrails|Waterfall in the trail of mount Dhaulagiri|
 |:-:|:-:|
-|![First Image](profile.png)|![Second Image](profile2.png)|
+|![First Image](trails.png)|![Second Image](waterfall.png)|
+
 
 Work Experience
 ======
