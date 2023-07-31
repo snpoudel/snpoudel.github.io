@@ -8,8 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Sandeep. I am a Masters student
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi, I am Sandeep. I am a Masters student at [University of Connecticut] (https://uconn.edu/), and a graduate research assistant at the [Ecohydrology Lab] (http://www.jamesknightonhydrology.com/).
+
+I grew up in Nepal and came to US or graduate studies.
+
+I have always been passionate about water, environment, climate, and using computatational techniques to workaround the problems in this regime. Courseworks, and projects during my undergraduate helped me decide my career in this field. Completing undergraduate, I worked in a engineering consulting for few years and then decided to pursue graduate studies.
+
+I plan to dedicate my career in the nexus of hydrolgy, climate change, and AI. I enjoy using machine learning, and data analytics techniques to study hydrological system and impacts of climate change.
 
 Education
 ======

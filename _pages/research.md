@@ -5,15 +5,16 @@ permalink: /research/
 author_profile: true
 ---
 * Hydrological modeling
-* Big data analysis
-* Machine Learning, Neural Networks
-* Hydrological Extrems
+* Flood risk, hydrological extremes
 * Climate Change
+* Big data analysis
+* Machine Learning and Neural Networks
+
 
 Research
 ======
 **Fate of coastal housing market under climate projections**
- 
+
 Describe about this in brief <br>
 Add relevant pictures.
 
