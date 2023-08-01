@@ -23,7 +23,7 @@ How flooding affects home values can determine the path of economic recovery for
 [Related Article Published in Environmental Research Letters](https://iopscience.iop.org/article/10.1088/1748-9326/acea38/meta) <br>
 
 
-![First Image](housing_model.png)
+![First Image](housing_model.png) <br>
 *Schematic representation of three different housing price model.*
 
 
@@ -32,6 +32,6 @@ How flooding affects home values can determine the path of economic recovery for
 This work is during my undergraduate studies. We performed an unsteady dam breach simulation of proposed Naumure Hydropower Project in HEC-RAS and prepared a flood inundation map showing the extent and depth of inundation for the study area. Our findings showed that the width of the breach played most important role in generating peak discharge relative to other breach characteristics. The simulation also revealed a significantly high discharge from the breach, indicating a potential flood risk in the residential area downstream.  <br>
 
 
-![First Image](dam_breach.png)
+![First Image](dam_breach.png) <br>
 *Model representaion of reservoir and river cross section.*
 
