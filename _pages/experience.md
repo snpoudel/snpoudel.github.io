@@ -8,7 +8,7 @@ I have diverse experience as a data specialist, intern engineer, civil (hydrolog
 
 I have a data-centric engineering background. I enjoy using computers/programming to make things simpler and efficient through computational thinking. I have a quantitative way of looking at things backed by statistics and mathematics. As a civil engineer, I have explored various terrains in Nepal for studies of hydropower and irrigation projects. Check out some of my shots!
 
-|Narrow mountain foottrails|Waterfall in the trail of mount Dhaulagiri|
+|Narrow mountain foottrails.|Waterfall in the trail of mount Dhaulagiri.|
 |:-:|:-:|
 |![First Image](trails.png)|![Second Image](waterfall.png)|
 
