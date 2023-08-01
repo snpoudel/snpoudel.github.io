@@ -13,6 +13,7 @@ I have a data-centric engineering background. I enjoy using computers/programmin
 |![First Image](trails.png)|![Second Image](waterfall.png)|
 
 
+
 Work Experience
 ======
 **Graduate Research Assistant**, Aug 2022 - Present <br>
