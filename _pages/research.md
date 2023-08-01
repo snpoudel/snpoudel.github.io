@@ -15,11 +15,11 @@ Research
 ======
 **Projection of coastal housing market in a changing climate**
 
-Flooding is a growing threat to the national economy and financial well-being. We used a socio-environmental model to study the impact of flooding in the coastal housing market of New York, New Jersey, and Connecticut, US. We incorporated the climate projection of precipitation (CMIP6), storm surge (Gumbel distribution), and sea level rise to 2100. We found a differential impact of flooding on communities based on social vulnerability, and the model predicts the housing market of the vulnerable communities could plummet and never recover due to sea level rise and hurricanes intensified by climate change.   <br>
+Flooding is a growing threat to the national economy and financial well-being. We used a socio-environmental model to study the impact of flooding in the coastal housing market of New York, New Jersey, and Connecticut, US. We incorporated the climate projection of precipitation (CMIP6), storm surge (Gumbel distribution), and sea level rise to 2100. We found a differential impact of flooding on communities based on social vulnerability, and the model predicts the housing market of the vulnerable communities could plummet and never recover due to sea level rise and climate change intensified hurricanes.   <br>
 
 **Role of flood insurance, risk perception, and memory of flood in the dynamics of coastal housing market**
 
-How flooding affects home values can determine the path of economic recovery for communities and have lasting impacts on national and global financial systems. Our Study found that initial economic impact of Hurricane Sandy was largely absorbed by the National Flood Insurance Program (NFIP); however, the region then exhibited a long-term decline in home values. Participation in the National Flood Insurance Program, communities' perception of risk, and the memory of past flooding events were important regional drivers of housing prices. <br>
+How flooding affects home values can determine the path of economic recovery for communities and have lasting impacts on national and global financial systems. Our Study (for 1970 to 2021) in the coastal census tracts of New York, New Jersey, and Connecticut, US found that initial economic impact of Hurricane Sandy (2012, 3.5m MSL) was largely absorbed by the National Flood Insurance Program (NFIP); however, the region then exhibited a long-term decline in home values. Participation in the National Flood Insurance Program, communities' perception of risk, and the memory of past flooding events were important regional drivers of housing prices. <br>
 [Related Article Published in Environmental Research Letters](https://iopscience.iop.org/article/10.1088/1748-9326/acea38/meta) <br>
 
 
