@@ -19,7 +19,7 @@ Education
 ======
 **Masters in Water Resources**, 2022 - Present <br>
     Department of Natural Resources and Environment <br>
-    University of Connecticut, storrs, CT <br>
+    University of Connecticut, Storrs, CT <br>
     Advisor: James Knighton
 
 **Bachelors in Civil Engineering**, 2015 - 2019 <br>
