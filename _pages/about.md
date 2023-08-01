@@ -10,8 +10,8 @@ redirect_from:
 
 Hi, I am Sandeep. I am a Masters student at [University of Connecticut](https://external.ink?to=/uconn.edu/), and a graduate research assistant at the [Ecohydrology Lab](http://www.jamesknightonhydrology.com/).
 
-I grew up in Nepal and came to US for graduate studies.
-I have a strong interest in water, environment, and climate change and enjoy utilizing computatational techniques to work around the challanges in this regime. Courseworks, and projects during my undergraduate helped me decide my career in this field. Completing undergraduate, I worked in a engineering firm for few years and then decided to pursue graduate studies.
+I grew up in Nepal and came to the US for graduate studies.
+I have a strong interest in water, environment, and climate change and enjoy utilizing computational techniques to work around the challenges in this regime. I did an undergraduate in civil engineering which sparked my initial interest in this area, and I took on various coursework and projects to develop my skills. Following my undergraduate, I worked in an engineering firm for a few years before deciding to pursue graduate studies.
 
 I enjoy using machine learning, and data analytics techniques to study hydrological system and impacts of climate change. I plan to dedicate my career in the nexus of hydrolgy, climate change, and AI.
 
