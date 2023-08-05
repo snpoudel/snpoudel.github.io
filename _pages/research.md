@@ -6,7 +6,7 @@ author_profile: true
 ---
 * Hydrological modeling, forcasting of hydrological extremes
 * Flood risk, Socio-Hydrology
-* Climate Change
+* Impacts of climate Change
 * Big data analysis
 * Machine Learning and Neural Networks
 
