@@ -15,6 +15,8 @@ I have a strong interest in water, environment, and climate change and enjoy uti
 
 I enjoy using machine learning, and data analytics techniques to study hydrological system and impacts of climate change. I plan to dedicate my career in the nexus of hydrolgy, climate change, and AI.
 
+Outside of work, I like reading, hiking, watching movies/series, and playing chess.
+
 Education
 ======
 **Masters in Water Resources**, 2022 - Present <br>
