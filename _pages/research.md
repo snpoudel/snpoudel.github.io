@@ -4,11 +4,10 @@ title: "Research Interest"
 permalink: /research/
 author_profile: true
 ---
-* Hydrological modeling, forcasting of hydrological extremes
-* Flood risk, Socio-Hydrology
-* Impacts of climate Change
-* Big data analysis
-* Machine Learning and Neural Networks
+* Hydrological modeling, Forcasting of hydrological extremes
+* Flood risk, Socio-Hydrology, Stochastic hydrology
+* Impacts of climate Change on hydrological systems
+* Data analytics, Machine learning and Neural networks
 
 
 Research
