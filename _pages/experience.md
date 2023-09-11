@@ -21,13 +21,13 @@ Work Experience
 * Big data analytics, Machine Learning
 * Hydrological Modeling, Statistical Analysis
 * Flood Risk Analysis, Socio-Hydrology, Impact of Climate Change
-* R Programming, Python, ArcGIS pro & QGIS, Inkscape
+* R Programming, Python, HPC slurm, ArcGIS pro & QGIS, Inkscape
 
 **Civil (Hydraulic/Hydrologic) Engineer**, Jan 2020 - Jul 2022 <br>
 [Hydro-Consult Engineering](http://www.hcel.com.np), Nepal
 * Hydrological analysis and hydraulic design for hydropower and irrigation projects
 * Preparation of bill of quantity, civil drawings, and technical reports
-* ArcGIS, AutoCAD, Civil3D, HEC-RAS, Excel with VBA, Microsoft Project
+* ArcGIS, AutoCAD, Civil3D, HEC-RAS, Excel with VBA, Python, Microsoft Project
 
 **Intern Engineer**, Sep 2019 - Dec 2019 <br>
 Hydro-Consult Engineering, Nepal
