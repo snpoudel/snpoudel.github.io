@@ -5,9 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 * Hydrological modeling, Forcasting of hydrological extremes
-* Flood risk, Socio-Hydrology, Stochastic hydrology
-* Impacts of climate Change on hydrological systems
-* Data analytics, Machine learning and Neural networks
+* Stochastic hydrology, Socio-Hydrology, Flood risk 
+* Climate change impacts on hydrological systems
+* Data analytics, Machine learning, Neural networks
 
 
 Research
