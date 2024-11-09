@@ -16,6 +16,8 @@ Outside of work, I enjoy hiking, reading, watching a good movie or series, and p
 
 Education
 ======
+---
+
 *PhD, Civil and Environmental Engineering*, 2024-Present <br>
     Cornell University, Ithaca, NY <br>
 
