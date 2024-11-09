@@ -8,7 +8,6 @@ author_profile: true
 * Data Analytics, Machine learning, Deep learning
 * Climate change impacts on Human-Environmental systems
 
-
 Projects
 ======
 **Future of United States coastal housing market and the National Flood Insurance Program in a changing climate**
@@ -29,6 +28,7 @@ Related Links and Publications: <br>
 
 How flooding affects home values can determine the path of economic recovery for communities and have lasting impacts on national and global financial systems. Our Study (for 1970 to 2021) in the coastal census tracts of New York, New Jersey, and Connecticut, US found that initial economic impact of Hurricane Sandy (2012, 3.5m MSL) was largely absorbed by the National Flood Insurance Program (NFIP); however, the region then exhibited a long-term decline in home values. Participation in the National Flood Insurance Program, communities' perception of risk, and the memory of past flooding events were important regional drivers of housing prices. <br>
 ![image-center](housing_model.png){: .align-center}
+
 Related Links and Publications: <br>
 
 [Housing market dynamics of the post-Sandy Hudson estuary, Long Island Sound, and New Jersey coastline are explained by NFIP participation](https://iopscience.iop.org/article/10.1088/1748-9326/acea38/meta) <br>
