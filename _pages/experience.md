@@ -30,7 +30,7 @@ Work Experience
 [Cloud Factory](https://www.cloudfactory.com/), Nepal
 
 
-
+<br>
 Check out some of my shots!
 
 |Narrow mountain foottrails.|Waterfall in the trail of mount Dhaulagiri.|
