@@ -30,6 +30,9 @@ Work Experience
 [Cloud Factory](https://www.cloudfactory.com/), Nepal
 
 
+
 Check out some of my shots!
 
-<div align="center"> <table> <tr> <td><img src="trails.png" alt="Narrow mountain foottrails" width="400px"/></td> <td><img src="waterfall.png" alt="Waterfall in the trail of mount Dhaulagiri" width="400px"/></td> </tr> <tr> <td><b>Narrow mountain foottrails</b></td> <td><b>Waterfall along the trail to Mount Dhaulagiri</b></td> </tr> </table> </div>
+|Narrow mountain foottrails.|Waterfall in the trail of mount Dhaulagiri.|
+|:-:|:-:|
+|![First Image](trails.png)|![Second Image](waterfall.png)|
