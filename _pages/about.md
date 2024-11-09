@@ -8,14 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Sandeep. I am a PhD student in [Cornell University](https://www.cornell.edu/), and a Graduate Research Assistant at the [Steinschneider Research Group](https://blogs.cornell.edu/steinschneider/).
+Hi! I’m Sandeep, a PhD student in Civil and Environmental Engineering at [Cornell University](https://www.cornell.edu/), and a Graduate Research Assistant with the [Steinschneider Research Group](https://blogs.cornell.edu/steinschneider/).
 
-I grew up in Nepal and came to the US for graduate studies.
-I have a strong interest in water, environment, and climate change and enjoy utilizing computational techniques to work around the challenges in this regime. I did an undergraduate in civil engineering which sparked my initial interest in this area, and I took on various coursework and projects to develop my skills. Following my undergraduate, I worked in an engineering firm for a few years before deciding to pursue graduate studies.
+Originally from Nepal, I came to the United States for graduate studies. I am interested in using AI, statistics, and computational modeling to better understand environmental and water resources systems, enhance their resilience in a changing climate, and contribute to a sustainable future.
 
-I enjoy using AI tools and statistics to study hydrological system and impacts of climate change. I plan to dedicate my career in the nexus of hydrolgy, climate change, and AI.
-
-Outside of work, I like reading, hiking, watching movies/series, and playing chess.
+Outside of work, I enjoy hiking, reading, watching a good movie or series, and playing a game of chess.
 
 Education
 ======
