@@ -4,33 +4,22 @@ title: "Research Interest"
 permalink: /research/
 author_profile: true
 ---
-* Hydrological modeling, Forcasting of hydrological extremes
-* Stochastic hydrology, Socio-Hydrology, Flood risk 
-* Climate change impacts on hydrological systems
-* Data analytics, Machine learning, Neural networks
+* Environmental and water resources systems modeling
+* Data Analytics, Machine learning, Deep learning
+* Climate change impacts on Human-Environmental systems
 
 
-Research
+Projects
 ======
-**Projection of coastal housing market in a changing climate**
+**Future of United States coastal housing market and the National Flood Insurance Program in a changing climate**
 
-Flooding is a growing threat to the national economy and financial well-being. We used a socio-environmental model to study the impact of flooding in the coastal housing market of New York, New Jersey, and Connecticut, US. We incorporated the climate projection of precipitation (CMIP6), storm surge (Gumbel distribution), and sea level rise to 2100. We found a differential impact of flooding on communities based on social vulnerability, and the model predicts the housing market of the vulnerable communities could plummet and never recover due to sea level rise and climate change intensified hurricanes.   <br>
+Flooding caused by rising sea levels, intensified storm surges, and extreme rainfall has huge impacts on human-water systems, posing an increasing threat to the national economy and financial stability in the United States. We use socio-environmental models and climate emission scenarios and projected a substantial rise in flood damage, which could put the National Flood Insurance Program in a more tenuous position, and potentially raise the risk of a future housing market crash. Additionally, the flood risk is disproportionately distributed, with the most socially vulnerable populations facing the greatest danger.<br>
+[Differential flood insurance participation and housing market trajectories under future coastal flooding in the United States](https://www.nature.com/articles/s43247-024-01848-z) <br>
+[US Flood Governance Drives Social Inequity and Maybe the Next Housing Market Crash](https://communities.springernature.com/posts/us-flood-governance-drives-social-inequity-and-maybe-the-next-housing-market-crash#) <br>
+
 
 **Role of flood insurance, risk perception, and memory of flood in the dynamics of coastal housing market**
 
 How flooding affects home values can determine the path of economic recovery for communities and have lasting impacts on national and global financial systems. Our Study (for 1970 to 2021) in the coastal census tracts of New York, New Jersey, and Connecticut, US found that initial economic impact of Hurricane Sandy (2012, 3.5m MSL) was largely absorbed by the National Flood Insurance Program (NFIP); however, the region then exhibited a long-term decline in home values. Participation in the National Flood Insurance Program, communities' perception of risk, and the memory of past flooding events were important regional drivers of housing prices. <br>
-[Related Article Published in Environmental Research Letters](https://iopscience.iop.org/article/10.1088/1748-9326/acea38/meta) <br>
-
-
-![First Image](housing_model.png) <br>
-*Schematic representation of three different housing price model.*
-
-
-**Hydrologic modeling of dam breach scenario and flood inundation mapping**
-
-This work is during my undergraduate studies. We performed an unsteady dam breach simulation of proposed Naumure Hydropower Project in HEC-RAS and prepared a flood inundation map showing the extent and depth of inundation for the study area. Our findings showed that the width of the breach played most important role in generating peak discharge relative to other breach characteristics. The simulation also revealed a significantly high discharge from the breach, indicating a potential flood risk in the residential area downstream.  <br>
-
-
-![First Image](dam_breach.png) <br>
-*Model representaion of reservoir and river cross section.*
+[Housing market dynamics of the post-Sandy Hudson estuary, Long Island Sound, and New Jersey coastline are explained by NFIP participation](https://iopscience.iop.org/article/10.1088/1748-9326/acea38/meta) <br>
 

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sandeep Poudel" # site title
 title_separator          : "-"
 name                     : &name "Sandeep Poudel"
-description              : &description "Masters student at UConn"
+description              : &description "PhD Student at Cornell University"
 url                      : https://snpoudel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "snpoudel/snpoudel.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Sandeep Poudel"
   avatar           : "profile.png"
-  bio              : "Masters student at UConn"
-  location         : "Storrs, CT"
+  bio              : "PhD student at Cornell University"
+  location         : "Ithaca, NY"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=wMsDspYAAAAJ&hl=en&oi=sra"
