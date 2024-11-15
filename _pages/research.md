@@ -18,11 +18,13 @@ Flooding caused by rising sea levels, intensified storm surges, and extreme rain
 
 Related Links and Publications: <br>
 
-[Differential flood insurance participation and housing market trajectories under future coastal flooding in the United States](https://www.nature.com/articles/s43247-024-01848-z) <br>
+*Publication in Nature Communication Earth & Environment:* [Differential flood insurance participation and housing market trajectories under future coastal flooding in the United States](https://www.nature.com/articles/s43247-024-01848-z) <br>
 
-[US Flood Governance Drives Social Inequity and Maybe the Next Housing Market Crash](https://communities.springernature.com/posts/us-flood-governance-drives-social-inequity-and-maybe-the-next-housing-market-crash#) <br>
+*Cover in UConn Today:* [US Flood Governance Drives Social Inequity and Maybe the Next Housing Market Crash](https://today.uconn.edu/2024/11/us-flood-governance-drives-social-inequity-and-maybe-the-next-housing-market-crash/) <br>
 
-[Flood Risk and Housing Market Dynamics Across CONUS Coastal Communities](https://csdms.colorado.edu/csdms_wiki/images/SandeepPoudel-CSDMS2024.pdf) <br>
+*Cover in Springer Nature:* [US Flood Governance Drives Social Inequity and Maybe the Next Housing Market Crash](https://communities.springernature.com/posts/us-flood-governance-drives-social-inequity-and-maybe-the-next-housing-market-crash#) <br>
+
+*Presentation in CSDMS annual meeting:* [Flood Risk and Housing Market Dynamics Across CONUS Coastal Communities](https://csdms.colorado.edu/wiki/2024_CSDMS_meeting-105) <br>
 
 **Role of flood insurance, risk perception, and memory of flood in the dynamics of coastal housing market**
 
@@ -31,5 +33,6 @@ How flooding affects home values can determine the path of economic recovery for
 
 Related Links and Publications: <br>
 
-[Housing market dynamics of the post-Sandy Hudson estuary, Long Island Sound, and New Jersey coastline are explained by NFIP participation](https://iopscience.iop.org/article/10.1088/1748-9326/acea38/meta) <br>
+*Publication in Environmental Research Letters:* [Housing market dynamics of the post-Sandy Hudson estuary, Long Island Sound, and New Jersey coastline are explained by NFIP participation](https://iopscience.iop.org/article/10.1088/1748-9326/acea38/meta) <br>
 
+*Presentation in AGU fall meeting:* [The Temporal Impact of Flooding on the Coastal Housing Market of New York, New Jersey, and Connecticut in a Changing Climate] (https://agu23.ipostersessions.com/default.aspx?s=82-3E-C3-32-94-5C-33-AF-49-EE-BF-50-4C-1C-3D-D8) <br>
