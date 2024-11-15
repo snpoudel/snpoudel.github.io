@@ -35,4 +35,4 @@ Related Links and Publications: <br>
 
 *Publication in Environmental Research Letters:* [Housing market dynamics of the post-Sandy Hudson estuary, Long Island Sound, and New Jersey coastline are explained by NFIP participation](https://iopscience.iop.org/article/10.1088/1748-9326/acea38/meta) <br>
 
-*Presentation in AGU fall meeting:* [The Temporal Impact of Flooding on the Coastal Housing Market of New York, New Jersey, and Connecticut in a Changing Climate] (https://agu23.ipostersessions.com/default.aspx?s=82-3E-C3-32-94-5C-33-AF-49-EE-BF-50-4C-1C-3D-D8) <br>
+*Presentation in AGU fall meeting:* [The Temporal Impact of Flooding on the Coastal Housing Market of New York, New Jersey, and Connecticut in a Changing Climate](https://agu23.ipostersessions.com/default.aspx?s=82-3E-C3-32-94-5C-33-AF-49-EE-BF-50-4C-1C-3D-D8) <br>
