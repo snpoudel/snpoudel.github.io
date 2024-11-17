@@ -31,7 +31,7 @@ Education
 Experience
 ======
 ------
-I have diverse experience as a data specialist, civil (hydrologic/hydraulic) engineer, and researcher. My journey began as a data specialist during my undergraduate studies, where I first realized the power of data-driven insights. After graduating, I worked as a civil (hydrologic/hydraulic) engineer, gaining hands-on experience with hydropower and irrigation projects while exploring the stunning landscapes of Nepal.
+I have diverse experience as a data specialist, civil (hydrologic/hydraulic) engineer, and researcher. My journey began as a data specialist during my undergraduate studies, where I first realized the power of data-driven insights. After graduating, I worked as a civil engineer, gaining hands-on experience with hydropower and irrigation projects while exploring the stunning landscapes of Nepal.
 
 From there, I joined the University of Connecticut as a graduate research assistant and am now continuing my research journey at Cornell University as a PhD student. I enjoy using my data-centric engineering skills to make processes more efficient, often turning to programming for creative problem-solving. <br>
 
