@@ -11,7 +11,7 @@ Long Short-Term Memory (LSTM) networks have shown strong performance in streamfl
 
 This project evaluates the effectiveness of attention-enhanced LSTM models in improving streamflow prediction accuracy compared to conventional (vanilla) LSTM models. <br>
 
-![image-center](hp.png){: .align-center}
+![image-center](attention_post.png){: .align-center}
 
 Related Links and Publications: <br>
 
@@ -23,7 +23,7 @@ A promising direction in physics-based machine learning for hydrology integrates
 
 This project focuses on a deeper investigation of these hybrid architectures, with the goal of systematically evaluating their potential for out-of-sample prediction and their fidelity under altered input conditions, such as those expected under climate change. <br>
 
-![image-center](hp.png){: .align-center}
+![image-center](piml_post.png){: .align-center}
 
 Related Links and Publications: <br>
 
@@ -34,7 +34,7 @@ Related Links and Publications: <br>
 
 Flood-change projections under future climate scenarios carry substantial uncertainties. Yet, these projections are essential for designing water infrastructure and for long-term planning. This study applies a Bayesian hierarchical modeling framework to regionally pool information and produce more robust estimates of flood changes. By integrating results from deep learning and hybrid modeling approaches, the framework aims to reduce uncertainty and support resilient planning of water systems such as bridges, roads, and dams. <br>
 
-![image-center](hp.png){: .align-center}
+![image-center](bayesian_post.png){: .align-center}
 
 Related Links and Publications: <br>
 
@@ -49,7 +49,7 @@ Designing future water infrastructure requires understanding how design-flood ma
 
 Hydrological models are commonly used to estimate these changes, but they carry substantial uncertainties. This study investigates the uncertainty in projecting changes in design floods across different types of hydrological models (process-based, deep learning, and hybrid) and under varying levels of input precipitation uncertainty. <br>
 
-![image-center](hp.png){: .align-center}
+![image-center](flood_change.png){: .align-center}
 
 Related Links and Publications: <br>
 
