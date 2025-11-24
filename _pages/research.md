@@ -1,15 +1,24 @@
 ---
 layout: archive
-title: "Research Interest"
+title: "Projects"
 permalink: /research/
 author_profile: true
 ---
-* Environmental and water resources systems modeling
-* Data Analytics, Machine learning, Deep learning
-* Climate change impacts on Human-Environmental systems
 
-Projects
 ======
+
+**Estimating change of design floods using process-based, deep learning, and hybrid hydrological models**
+
+Designing water infrastrustructures into the future requires understanding how the design flood magnitude will change under future climate conditions. We use hydrological models to estimate how design flood would change, but hydrological models are full of uncertainties. This study explores the uncertainty in projecting the change in design flood using different hydrological model types, and under different level of input precipitation uncertainty. Our result suggest that there is large uncertainties in these change projections and Deep learning models provided most competitive results. <br>
+
+![image-center](hp.png){: .align-center}
+
+Related Links and Publications: <br>
+
+*Publication in Journal of Hydrology:* [Differential flood insurance participation and housing market trajectories under future coastal flooding in the United States](https://www.nature.com/articles/s43247-024-01848-z) <br>
+
+
+
 **Future of United States coastal housing market and the National Flood Insurance Program in a changing climate**
 
 Flooding caused by rising sea levels, intensified storm surges, and extreme rainfall has huge impacts on human-water systems, posing an increasing threat to the national economy and financial stability in the United States. We use socio-environmental models and climate emission scenarios and projected a substantial rise in flood damage, which could put the National Flood Insurance Program in a more tenuous position, and potentially raise the risk of a future housing market crash. Additionally, the flood risk is disproportionately distributed, with the most socially vulnerable populations facing the greatest danger.<br>

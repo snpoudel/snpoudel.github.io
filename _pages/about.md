@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Sandeep, a PhD student in Civil and Environmental Engineering at [Cornell University](https://www.cornell.edu/), and a Graduate Research Assistant with the [Steinschneider Research Group](https://blogs.cornell.edu/steinschneider/).
+Hi! I’m Sandeep, a PhD student in Civil and Environmental Engineering at [Cornell University](https://www.cornell.edu/) and a Graduate Research Assistant with the [Steinschneider Research Group](https://blogs.cornell.edu/steinschneider/).
 
-Originally from Nepal, I came to the United States for graduate studies. I am interested in using AI, statistics, and computational modeling to better understand environmental and water resources systems, enhance their resilience in a changing climate, and contribute to a sustainable future.
+I grew up in Nepal and came to the United States for graduate school. My work sits at the intersection of AI, statistics, and hydrology. I study water, environmental, and climate systems and aim to help improve their resilience in a changing climate.
 
-Outside of work, I enjoy hiking, reading, watching a movie or series, and playing chess.
+When I’m not working with data and models, I’m usually somewhere out in nature, reading a sci-fi novel, watching a good show, or playing a few games of chess.
 
 Education
 ======
@@ -31,9 +31,9 @@ Education
 Experience
 ======
 ------
-I have diverse experience as a data specialist, civil (hydrologic/hydraulic) engineer, and researcher. My journey began as a data specialist during my undergraduate studies, where I first realized the power of data-driven insights. After graduating, I worked as a civil engineer, gaining hands-on experience with hydropower and irrigation projects while exploring the stunning landscapes of Nepal.
+I have a diverse background spanning data science, hydrologic and hydraulic engineering, and academic research. My journey began as a data specialist during my undergraduate studies, where I first discovered the impact of data-driven insights. After earning my degree, I worked as a civil engineer, gaining hands-on experience with hydropower and irrigation projects while exploring the stunning landscapes of Nepal.
 
-From there, I joined the University of Connecticut as a graduate research assistant and am now continuing my research journey at Cornell University as a PhD student. I enjoy using my data-centric engineering skills to make processes more efficient, often turning to programming for creative problem-solving. <br>
+I then moved into research, first at the University of Connecticut as a Masters student and now at Cornell University as a PhD student. I enjoy using data-centric engineering approaches to explore and better understand water, environmental, and climate systems. I also often find myself diving into programming to experiment with new models and methodologies. <br>
 
 *Graduate Research Assistant*, June 2024 - Present <br>
 [Steinschneider Research Group](https://blogs.cornell.edu/steinschneider/sample-page-2/), Cornell University, NY
