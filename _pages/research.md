@@ -5,18 +5,55 @@ permalink: /research/
 author_profile: true
 ---
 
-======
+**Evaluation of Attention-Based LSTM Models for Improving Streamflow Predictions**
 
-**Estimating change of design floods using process-based, deep learning, and hybrid hydrological models**
+Long Short-Term Memory (LSTM) networks have shown strong performance in streamflow prediction tasks. However, standard LSTM architectures can struggle to capture long-range dependencies in sequential hydrological data. Attention mechanisms offer a potential solution by enabling the model to focus selectively on the most relevant parts of the input sequence when generating predictions.
 
-Designing water infrastrustructures into the future requires understanding how the design flood magnitude will change under future climate conditions. We use hydrological models to estimate how design flood would change, but hydrological models are full of uncertainties. This study explores the uncertainty in projecting the change in design flood using different hydrological model types, and under different level of input precipitation uncertainty. Our result suggest that there is large uncertainties in these change projections and Deep learning models provided most competitive results. <br>
+This project evaluates the effectiveness of attention-enhanced LSTM models in improving streamflow prediction accuracy compared to conventional (vanilla) LSTM models. <br>
 
 ![image-center](hp.png){: .align-center}
 
 Related Links and Publications: <br>
 
-*Publication in Journal of Hydrology:* [Differential flood insurance participation and housing market trajectories under future coastal flooding in the United States](https://www.nature.com/articles/s43247-024-01848-z) <br>
+*In preparation*
 
+**Physics-based machine learning in hydrology**
+
+A promising direction in physics-based machine learning for hydrology integrates neural networks for parameter learning with process-based hydrological models for simulation. These components are combined within a single framework that supports model development through gradient-based optimization. Such hybrid architectures can deliver higher predictive performance than traditional process-based models, provide improved interpretability through transparency of internal hydrological processes, and show strong potential for transfer learning in data-scarce regions and under changing climate conditions.
+
+This project focuses on a deeper investigation of these hybrid architectures, with the goal of systematically evaluating their potential for out-of-sample prediction and their fidelity under altered input conditions, such as those expected under climate change. <br>
+
+![image-center](hp.png){: .align-center}
+
+Related Links and Publications: <br>
+
+*In preparation*
+
+
+**Bayesian hierarchical modeling to reduce uncertainty in flood-change projection from deep learning and hybrid models**
+
+Flood-change projections under future climate scenarios carry substantial uncertainties. Yet, these projections are essential for designing water infrastructure and for long-term planning. This study applies a Bayesian hierarchical modeling framework to regionally pool information and produce more robust estimates of flood changes. By integrating results from deep learning and hybrid modeling approaches, the framework aims to reduce uncertainty and support resilient planning of water systems such as bridges, roads, and dams. <br>
+
+![image-center](hp.png){: .align-center}
+
+Related Links and Publications: <br>
+
+*Under review at Journal of Hydrologic Engineering*
+
+*Water programming blog post:* [Uncertainty in Design Flood Change Projections and Ways to Reduce It](https://waterprogramming.wpcomstaging.com/2025/11/10/uncertainty-in-design-flood-change-projections-and-ways-to-reduce-it/) <br>
+
+
+**Uncertainty in estimating change of design floods using process-based, deep learning, and hybrid hydrological models**
+
+Designing future water infrastructure requires understanding how design-flood magnitudes may change under future climate conditions.
+
+Hydrological models are commonly used to estimate these changes, but they carry substantial uncertainties. This study investigates the uncertainty in projecting changes in design floods across different types of hydrological models (process-based, deep learning, and hybrid) and under varying levels of input precipitation uncertainty. <br>
+
+![image-center](hp.png){: .align-center}
+
+Related Links and Publications: <br>
+
+*Publication in Journal of Hydrology:* [Uncertainty in estimating the relative change of design floods under climate change: a stylized experiment with process-based, deep learning, and hybrid models](https://www.sciencedirect.com/science/article/pii/S0022169425017676?via%3Dihub) <br>
 
 
 **Future of United States coastal housing market and the National Flood Insurance Program in a changing climate**
