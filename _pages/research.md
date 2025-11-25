@@ -15,7 +15,7 @@ A promising direction in physics-based machine learning for hydrology integrates
 
 This project focuses on a deeper investigation of these hybrid architectures, with the goal of systematically evaluating their potential for out-of-sample prediction and their fidelity under altered input conditions, such as those expected under climate change.
 
-![image-center](piml_post.png){: .align-center}
+![image-center](piml_post.png){: .align-center style="max-width:60%;"}
 
 <u> Related Links and Publications: </u> <br>
 
@@ -42,7 +42,7 @@ This project evaluates the effectiveness of attention-enhanced LSTM models in im
 
 Flood-change projections under future climate scenarios carry substantial uncertainties. Yet, these projections are essential for designing water infrastructure and for long-term planning. This study applies a Bayesian hierarchical modeling framework to regionally pool information and produce more robust estimates of flood changes. By integrating results from deep learning and hybrid modeling approaches, the framework aims to reduce uncertainty and support resilient planning of water systems such as bridges, roads, and dams. <br>
 
-![image-center](bayesian_post.png){: .align-center}
+![image-center](bayesian_post.png){: .align-center style="max-width:60%;"}
 
 <u> Related Links and Publications: </u> <br>
 
@@ -58,7 +58,7 @@ Designing future water infrastructure requires understanding how design-flood ma
 
 Hydrological models are commonly used to estimate these changes, but they carry substantial uncertainties. This study investigates the uncertainty in projecting changes in design floods across different types of hydrological models (process-based, deep learning, and hybrid) and under varying levels of input precipitation uncertainty. <br>
 
-![image-center](flood_change.png){: .align-center}
+![image-center](flood_change.png){: .align-center style="max-width:60%;"}
 
 <u> Related Links and Publications: </u> <br>
 
@@ -70,7 +70,7 @@ Hydrological models are commonly used to estimate these changes, but they carry 
 
 Flooding caused by rising sea levels, intensified storm surges, and extreme rainfall has huge impacts on human-water systems, posing an increasing threat to the national economy and financial stability in the United States. We use socio-environmental models and climate emission scenarios and projected a substantial rise in flood damage, which could put the National Flood Insurance Program in a more tenuous position, and potentially raise the risk of a future housing market crash. Additionally, the flood risk is disproportionately distributed, with the most socially vulnerable populations facing the greatest danger.<br>
 
-![image-center](hp.png){: .align-center}
+![image-center](hp.png){: .align-center style="max-width:60%;"}
 
 <u> Related Links and Publications: </u> <br>
 
@@ -87,7 +87,7 @@ Flooding caused by rising sea levels, intensified storm surges, and extreme rain
 <hr style="border: 1px solid grey; margin-top: -5px; margin-bottom: 0;">
 
 How flooding affects home values can determine the path of economic recovery for communities and have lasting impacts on national and global financial systems. Our Study (for 1970 to 2021) in the coastal census tracts of New York, New Jersey, and Connecticut, US found that initial economic impact of Hurricane Sandy (2012, 3.5m MSL) was largely absorbed by the National Flood Insurance Program (NFIP); however, the region then exhibited a long-term decline in home values. Participation in the National Flood Insurance Program, communities' perception of risk, and the memory of past flooding events were important regional drivers of housing prices. <br>
-![image-center](housing_model.png){: .align-center}
+![image-center](housing_model.png){: .align-center style="max-width:60%;"}
 
 <u> Related Links and Publications: </u> <br>
 
