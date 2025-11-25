@@ -13,7 +13,7 @@ Below are some of the research projects I am currently working on, as well as th
 
 A promising direction in physics-based machine learning for hydrology integrates neural networks for parameter learning with process-based hydrological models for simulation. These components are combined within a single framework that supports model development through gradient-based optimization. Such hybrid architectures can deliver higher predictive performance than traditional process-based models, provide improved interpretability through transparency of internal hydrological processes, and show strong potential for transfer learning in data-scarce regions and under changing climate conditions.
 
-This project focuses on a deeper investigation of these hybrid architectures, with the goal of systematically evaluating their potential for out-of-sample prediction and their fidelity under altered input conditions, such as those expected under climate change. <br>
+This project focuses on a deeper investigation of these hybrid architectures, with the goal of systematically evaluating their potential for out-of-sample prediction and their fidelity under altered input conditions, such as those expected under climate change.
 
 ![image-center](piml_post.png){: .align-center}
 
@@ -27,7 +27,7 @@ This project focuses on a deeper investigation of these hybrid architectures, wi
 
 Long Short-Term Memory (LSTM) networks have shown strong performance in streamflow prediction tasks. However, standard LSTM architectures can struggle to capture long-range dependencies in sequential hydrological data. Attention mechanisms offer a potential solution by enabling the model to focus selectively on the most relevant parts of the input sequence when generating predictions.
 
-This project evaluates the effectiveness of attention-enhanced LSTM models in improving streamflow prediction accuracy compared to conventional (vanilla) LSTM models. <br>
+This project evaluates the effectiveness of attention-enhanced LSTM models in improving streamflow prediction accuracy compared to conventional (vanilla) LSTM models.
 
 ![image-center](attention_post.png){: .align-center}
 
