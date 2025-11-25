@@ -4,7 +4,7 @@ title: "Projects"
 permalink: /research/
 author_profile: true
 ---
-<br>
+
 **Evaluation of Attention-Based LSTM Models for Improving Streamflow Predictions**
 <hr>
 
@@ -12,13 +12,14 @@ Long Short-Term Memory (LSTM) networks have shown strong performance in streamfl
 
 This project evaluates the effectiveness of attention-enhanced LSTM models in improving streamflow prediction accuracy compared to conventional (vanilla) LSTM models. <br>
 
-<p style="text-align:center;"><img src="attention_post.png" alt="Attention-based LSTM" style="max-width:60%;height:auto;"></p>
+![image-center](attention_post.png){: .align-center}
 
-<u>Related Links and Publications:</u> <br>
+Related Links and Publications: <br>
 
-*In preparation*
+<u> *In preparation* </u>
 
 **Physics-based machine learning in hydrology**
+<hr>
 
 A promising direction in physics-based machine learning for hydrology integrates neural networks for parameter learning with process-based hydrological models for simulation. These components are combined within a single framework that supports model development through gradient-based optimization. Such hybrid architectures can deliver higher predictive performance than traditional process-based models, provide improved interpretability through transparency of internal hydrological processes, and show strong potential for transfer learning in data-scarce regions and under changing climate conditions.
 
@@ -26,18 +27,19 @@ This project focuses on a deeper investigation of these hybrid architectures, wi
 
 ![image-center](piml_post.png){: .align-center}
 
-Related Links and Publications: <br>
+<u> Related Links and Publications: </u> <br>
 
 *In preparation*
 
 
 **Bayesian hierarchical modeling to reduce uncertainty in flood-change projection from deep learning and hybrid models**
+<hr>
 
 Flood-change projections under future climate scenarios carry substantial uncertainties. Yet, these projections are essential for designing water infrastructure and for long-term planning. This study applies a Bayesian hierarchical modeling framework to regionally pool information and produce more robust estimates of flood changes. By integrating results from deep learning and hybrid modeling approaches, the framework aims to reduce uncertainty and support resilient planning of water systems such as bridges, roads, and dams. <br>
 
 ![image-center](bayesian_post.png){: .align-center}
 
-Related Links and Publications: <br>
+<u> Related Links and Publications: </u> <br>
 
 *Under review at Journal of Hydrologic Engineering*
 
@@ -45,6 +47,7 @@ Related Links and Publications: <br>
 
 
 **Uncertainty in estimating change of design floods using process-based, deep learning, and hybrid hydrological models**
+<hr>
 
 Designing future water infrastructure requires understanding how design-flood magnitudes may change under future climate conditions.
 
@@ -52,18 +55,19 @@ Hydrological models are commonly used to estimate these changes, but they carry 
 
 ![image-center](flood_change.png){: .align-center}
 
-Related Links and Publications: <br>
+<u> Related Links and Publications: </u> <br>
 
 *Publication in Journal of Hydrology:* [Uncertainty in estimating the relative change of design floods under climate change: a stylized experiment with process-based, deep learning, and hybrid models](https://www.sciencedirect.com/science/article/pii/S0022169425017676?via%3Dihub) <br>
 
 
 **Future of United States coastal housing market and the National Flood Insurance Program in a changing climate**
+<hr>
 
 Flooding caused by rising sea levels, intensified storm surges, and extreme rainfall has huge impacts on human-water systems, posing an increasing threat to the national economy and financial stability in the United States. We use socio-environmental models and climate emission scenarios and projected a substantial rise in flood damage, which could put the National Flood Insurance Program in a more tenuous position, and potentially raise the risk of a future housing market crash. Additionally, the flood risk is disproportionately distributed, with the most socially vulnerable populations facing the greatest danger.<br>
 
 ![image-center](hp.png){: .align-center}
 
-Related Links and Publications: <br>
+<u> Related Links and Publications: </u> <br>
 
 *Publication in Nature Communication Earth & Environment:* [Differential flood insurance participation and housing market trajectories under future coastal flooding in the United States](https://www.nature.com/articles/s43247-024-01848-z) <br>
 
@@ -73,12 +77,13 @@ Related Links and Publications: <br>
 
 *Presentation in CSDMS annual meeting:* [Flood Risk and Housing Market Dynamics Across CONUS Coastal Communities](https://csdms.colorado.edu/wiki/2024_CSDMS_meeting-105) <br>
 
-**Role of flood insurance, risk perception, and memory of flood in the dynamics of coastal housing market**
 
+**Role of flood insurance, risk perception, and memory of flood in the dynamics of coastal housing market**
+<hr>
 How flooding affects home values can determine the path of economic recovery for communities and have lasting impacts on national and global financial systems. Our Study (for 1970 to 2021) in the coastal census tracts of New York, New Jersey, and Connecticut, US found that initial economic impact of Hurricane Sandy (2012, 3.5m MSL) was largely absorbed by the National Flood Insurance Program (NFIP); however, the region then exhibited a long-term decline in home values. Participation in the National Flood Insurance Program, communities' perception of risk, and the memory of past flooding events were important regional drivers of housing prices. <br>
 ![image-center](housing_model.png){: .align-center}
 
-Related Links and Publications: <br>
+<u> Related Links and Publications: </u> <br>
 
 *Publication in Environmental Research Letters:* [Housing market dynamics of the post-Sandy Hudson estuary, Long Island Sound, and New Jersey coastline are explained by NFIP participation](https://iopscience.iop.org/article/10.1088/1748-9326/acea38/meta) <br>
 
