@@ -10,7 +10,7 @@ Below are some of the research projects I am currently working on, as well as th
 
 
 <strong>Evaluation of attention-based LSTM models for improving streamflow predictions</strong>
-<hr style="border: 0.8px solid grey; margin-top: 0px; margin-bottom: 4px;">
+<hr style="border: 0.8px solid grey; margin: 0px 0 2px 0;">
 
 Long Short-Term Memory (LSTM) networks have shown strong performance in streamflow prediction tasks. However, standard LSTM architectures can struggle to capture long-range dependencies in sequential hydrological data. Attention mechanisms offer a potential solution by enabling the model to focus selectively on the most relevant parts of the input sequence when generating predictions.
 
