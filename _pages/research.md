@@ -27,9 +27,9 @@ This project focuses on a deeper investigation of these hybrid architectures, wi
 
 Long Short-Term Memory (LSTM) networks have shown strong performance in streamflow prediction tasks. However, standard LSTM architectures can struggle to capture long-range dependencies in sequential hydrological data. Attention mechanisms offer a potential solution by enabling the model to focus selectively on the most relevant parts of the input sequence when generating predictions.
 
-This project evaluates the effectiveness of attention-enhanced LSTM models in improving streamflow prediction accuracy compared to conventional (vanilla) LSTM models.
+This project evaluates the effectiveness of attention-enhanced LSTM models in improving streamflow prediction accuracy compared to vanilla LSTM models.
 
-[![image-center](attention_post.png){: .align-center style="max-width:60%;"}](attention_post.png)
+[![image-center](./_pages/attention_post.png){: .align-center style="max-width:60%;"}](./_pages/attention_post.png)
 
 <u> Related Links and Publications: </u> <br>
 
