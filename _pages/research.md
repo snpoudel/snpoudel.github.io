@@ -9,8 +9,8 @@ You can also browse my projects on [GitHub Repositories](https://github.com/snpo
 Below are some of the research projects I am currently working on, as well as those I have worked on previously. <br>
 
 
-<strong>Evaluation of Attention-Based LSTM Models for Improving Streamflow Predictions</strong>
-<hr style="border: 1px solid grey; margin-top: 2px; margin-bottom: 4px;">
+<strong>Evaluation of attention-based LSTM models for improving streamflow predictions</strong>
+<hr style="border: 0.8px solid grey; margin-top: 0px; margin-bottom: 4px;">
 
 Long Short-Term Memory (LSTM) networks have shown strong performance in streamflow prediction tasks. However, standard LSTM architectures can struggle to capture long-range dependencies in sequential hydrological data. Attention mechanisms offer a potential solution by enabling the model to focus selectively on the most relevant parts of the input sequence when generating predictions.
 
