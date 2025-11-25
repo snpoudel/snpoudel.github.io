@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **Evaluation of Attention-Based LSTM Models for Improving Streamflow Predictions**
-<hr style="border: 2px solid black;">
+<hr style="border: 1px solid black;">
 
 Long Short-Term Memory (LSTM) networks have shown strong performance in streamflow prediction tasks. However, standard LSTM architectures can struggle to capture long-range dependencies in sequential hydrological data. Attention mechanisms offer a potential solution by enabling the model to focus selectively on the most relevant parts of the input sequence when generating predictions.
 
