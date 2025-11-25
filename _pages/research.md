@@ -4,12 +4,13 @@ title: "Research Projects"
 permalink: /research/
 author_profile: true
 ---
-Below are some of the research projects I am currently involved in or have worked on in the past. <br>
-You can explore published work on my [Google Scholar](https://scholar.google.com/citations?user=wMsDspYAAAAJ&hl=en). <br>
-You can also find my projects in my [GitHub Repositories](https://github.com/snpoudel). <br>
+You can explore my published work on [Google Scholar](https://scholar.google.com/citations?user=wMsDspYAAAAJ&hl=en). <br>
+You can also browse my projects on [GitHub Repositories](https://github.com/snpoudel). <br>
+Below are some of the research projects I am currently working on, as well as those I have worked on previously. <br>
 
-**Evaluation of Attention-Based LSTM Models for Improving Streamflow Predictions**
-<hr style="border: 1px solid grey;">
+
+<strong>Evaluation of Attention-Based LSTM Models for Improving Streamflow Predictions</strong>
+<hr style="border: 1px solid grey; margin-top: 4px; margin-bottom: 4px;">
 
 Long Short-Term Memory (LSTM) networks have shown strong performance in streamflow prediction tasks. However, standard LSTM architectures can struggle to capture long-range dependencies in sequential hydrological data. Attention mechanisms offer a potential solution by enabling the model to focus selectively on the most relevant parts of the input sequence when generating predictions.
 
