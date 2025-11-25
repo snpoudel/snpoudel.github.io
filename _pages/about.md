@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<hr style="border: 0.9px solid grey; margin-top: -3px; margin-bottom: 0;">
+<hr style="border: 1px solid grey; margin-top: -3px; margin-bottom: 2;">
 
 Hi! I’m Sandeep, a PhD student in Civil and Environmental Engineering at [Cornell University](https://www.cornell.edu/) and a Graduate Research Assistant with the [Steinschneider Research Group](https://blogs.cornell.edu/steinschneider/).
 
@@ -17,7 +17,7 @@ When I’m not working with data and models, I’m usually somewhere out in natu
 
 Education
 ======
-<hr style="border: 0.9px solid grey; margin-top: -3px; margin-bottom: 0;">
+<hr style="border: 1px solid grey; margin-top: -3px; margin-bottom: 0;">
 
 
 *PhD, Civil and Environmental Engineering*, 2024-Present <br>
@@ -32,7 +32,7 @@ Education
 
 Experience
 ======
-<hr style="border: 0.9px solid grey; margin-top: -3px; margin-bottom: 0;">
+<hr style="border: 1px solid grey; margin-top: -3px; margin-bottom: 0;">
 
 I have a diverse background spanning data science, hydrologic and hydraulic engineering, and academic research. My journey began as a data specialist during my undergraduate studies, where I first discovered the impact of data-driven insights. After earning my degree, I worked as a civil engineer, gaining hands-on experience with hydropower and irrigation projects while exploring the stunning landscapes of Nepal.
 
