@@ -8,6 +8,19 @@ You can explore my published work on [Google Scholar](https://scholar.google.com
 You can also browse my projects on [GitHub Repositories](https://github.com/snpoudel). <br>
 Below are some of the research projects I am currently working on, as well as those I have worked on previously. <br>
 
+<strong>Physics-based machine learning in hydrology</strong>
+<hr style="border: 1px solid grey; margin-top: -5px; margin-bottom: 0;">
+
+A promising direction in physics-based machine learning for hydrology integrates neural networks for parameter learning with process-based hydrological models for simulation. These components are combined within a single framework that supports model development through gradient-based optimization. Such hybrid architectures can deliver higher predictive performance than traditional process-based models, provide improved interpretability through transparency of internal hydrological processes, and show strong potential for transfer learning in data-scarce regions and under changing climate conditions.
+
+This project focuses on a deeper investigation of these hybrid architectures, with the goal of systematically evaluating their potential for out-of-sample prediction and their fidelity under altered input conditions, such as those expected under climate change. <br>
+
+![image-center](piml_post.png){: .align-center}
+
+<u> Related Links and Publications: </u> <br>
+
+*In preparation*
+<br>
 
 <strong>Evaluation of attention-based LSTM models for improving streamflow predictions</strong>
 <hr style="border: 1px solid grey; margin-top: -5px; margin-bottom: 0;">
@@ -21,19 +34,7 @@ This project evaluates the effectiveness of attention-enhanced LSTM models in im
 <u> Related Links and Publications: </u> <br>
 
 *In preparation*
-
-<strong>Physics-based machine learning in hydrology</strong>
-<hr style="border: 1px solid grey; margin-top: -5px; margin-bottom: 0;">
-
-A promising direction in physics-based machine learning for hydrology integrates neural networks for parameter learning with process-based hydrological models for simulation. These components are combined within a single framework that supports model development through gradient-based optimization. Such hybrid architectures can deliver higher predictive performance than traditional process-based models, provide improved interpretability through transparency of internal hydrological processes, and show strong potential for transfer learning in data-scarce regions and under changing climate conditions.
-
-This project focuses on a deeper investigation of these hybrid architectures, with the goal of systematically evaluating their potential for out-of-sample prediction and their fidelity under altered input conditions, such as those expected under climate change. <br>
-
-![image-center](piml_post.png){: .align-center}
-
-<u> Related Links and Publications: </u> <br>
-
-*In preparation*
+<br>
 
 
 <strong>Bayesian hierarchical modeling to reduce uncertainty in flood-change projection from deep learning and hybrid models</strong>
