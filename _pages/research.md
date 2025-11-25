@@ -29,7 +29,8 @@ Long Short-Term Memory (LSTM) networks have shown strong performance in streamfl
 
 This project evaluates the effectiveness of attention-enhanced LSTM models in improving streamflow prediction accuracy compared to conventional (vanilla) LSTM models.
 
-![image-center](attention_post.png){: .align-center}
+[![image-center](attention_post.png){: .align-center style="max-width:60%;"}](attention_post.png)
+
 
 <u> Related Links and Publications: </u> <br>
 
