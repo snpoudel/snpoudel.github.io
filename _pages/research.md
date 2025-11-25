@@ -18,12 +18,12 @@ This project evaluates the effectiveness of attention-enhanced LSTM models in im
 
 ![image-center](attention_post.png){: .align-center}
 
-Related Links and Publications: <br>
+<u> Related Links and Publications: </u> <br>
 
-<u> *In preparation* </u>
+*In preparation*
 
 **Physics-based machine learning in hydrology**
-<hr>
+<hr style="border: 0.9px solid grey; margin-top: -3px; margin-bottom: 0;">
 
 A promising direction in physics-based machine learning for hydrology integrates neural networks for parameter learning with process-based hydrological models for simulation. These components are combined within a single framework that supports model development through gradient-based optimization. Such hybrid architectures can deliver higher predictive performance than traditional process-based models, provide improved interpretability through transparency of internal hydrological processes, and show strong potential for transfer learning in data-scarce regions and under changing climate conditions.
 
@@ -37,7 +37,7 @@ This project focuses on a deeper investigation of these hybrid architectures, wi
 
 
 **Bayesian hierarchical modeling to reduce uncertainty in flood-change projection from deep learning and hybrid models**
-<hr>
+<hr style="border: 0.9px solid grey; margin-top: -3px; margin-bottom: 0;">
 
 Flood-change projections under future climate scenarios carry substantial uncertainties. Yet, these projections are essential for designing water infrastructure and for long-term planning. This study applies a Bayesian hierarchical modeling framework to regionally pool information and produce more robust estimates of flood changes. By integrating results from deep learning and hybrid modeling approaches, the framework aims to reduce uncertainty and support resilient planning of water systems such as bridges, roads, and dams. <br>
 
@@ -51,7 +51,7 @@ Flood-change projections under future climate scenarios carry substantial uncert
 
 
 **Uncertainty in estimating change of design floods using process-based, deep learning, and hybrid hydrological models**
-<hr>
+<hr style="border: 0.9px solid grey; margin-top: -3px; margin-bottom: 0;">
 
 Designing future water infrastructure requires understanding how design-flood magnitudes may change under future climate conditions.
 
@@ -65,7 +65,7 @@ Hydrological models are commonly used to estimate these changes, but they carry 
 
 
 **Future of United States coastal housing market and the National Flood Insurance Program in a changing climate**
-<hr>
+<hr style="border: 0.9px solid grey; margin-top: -3px; margin-bottom: 0;">
 
 Flooding caused by rising sea levels, intensified storm surges, and extreme rainfall has huge impacts on human-water systems, posing an increasing threat to the national economy and financial stability in the United States. We use socio-environmental models and climate emission scenarios and projected a substantial rise in flood damage, which could put the National Flood Insurance Program in a more tenuous position, and potentially raise the risk of a future housing market crash. Additionally, the flood risk is disproportionately distributed, with the most socially vulnerable populations facing the greatest danger.<br>
 
@@ -83,7 +83,8 @@ Flooding caused by rising sea levels, intensified storm surges, and extreme rain
 
 
 **Role of flood insurance, risk perception, and memory of flood in the dynamics of coastal housing market**
-<hr>
+<hr style="border: 0.9px solid grey; margin-top: -3px; margin-bottom: 0;">
+
 How flooding affects home values can determine the path of economic recovery for communities and have lasting impacts on national and global financial systems. Our Study (for 1970 to 2021) in the coastal census tracts of New York, New Jersey, and Connecticut, US found that initial economic impact of Hurricane Sandy (2012, 3.5m MSL) was largely absorbed by the National Flood Insurance Program (NFIP); however, the region then exhibited a long-term decline in home values. Participation in the National Flood Insurance Program, communities' perception of risk, and the memory of past flooding events were important regional drivers of housing prices. <br>
 ![image-center](housing_model.png){: .align-center}
 
