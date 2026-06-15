@@ -1,6 +1,6 @@
-# My Website — Quick Edit Guide
+# Website — Edit Guide
 
-## Files that matter
+## Files description
 
 | File | Purpose |
 |---|---|
@@ -38,7 +38,7 @@ python update_publications.py
 
 **Profile photo** — Rename your new photo to `profile.png` and drop it into the `images/` folder.
 
-**Email or links** — Use Ctrl+H (Find & Replace) in `index.html`. Note: email is shown as `sp2596 at cornell.edu` (no `@`) to reduce spam; update both the `href="mailto:..."` and the visible `<span>` text.
+**Links** — Use Ctrl+H (Find & Replace) in `index.html`. Update both the `href="mailto:..."` and the visible `<span>` text.
 
 ---
 
