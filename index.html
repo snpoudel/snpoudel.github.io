@@ -3,387 +3,388 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Sandeep Poudel – PhD Candidate in Civil &amp; Environmental Engineering at Cornell University, researching AI, statistics, and hydrology.">
-  <title>Sandeep Poudel</title>
+  <title>Sandeep Poudel · Cornell University</title>
+  <meta name="description" content="Sandeep Poudel is a PhD candidate in Civil and Environmental Engineering at Cornell University building deep learning, hybrid physics-ML, and Bayesian models for floods, streamflow, and Earth system prediction.">
+  <meta name="author" content="Sandeep Poudel">
+  <link rel="canonical" href="https://snpoudel.github.io/">
+
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Sandeep Poudel">
+  <meta property="og:description" content="PhD candidate at Cornell working at the intersection of machine learning, hydrology, and climate risk.">
+  <meta property="og:url" content="https://snpoudel.github.io/">
+  <meta property="og:image" content="https://snpoudel.github.io/images/profile.png">
+  <meta name="twitter:card" content="summary">
+
+  <link rel="icon" href="images/favicon.svg" type="image/svg+xml">
+  <meta name="theme-color" content="#f7f5f0" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#14181b" media="(prefers-color-scheme: dark)">
+
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,300;0,400;0,500;1,300;1,400&family=Hanken+Grotesk:wght@400;500;600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
   <link rel="stylesheet" href="style.css">
+
+  <!-- Apply saved theme before paint to avoid a flash -->
+  <script>
+    try { var t = localStorage.getItem('theme'); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
+  </script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Sandeep Poudel",
+    "url": "https://snpoudel.github.io/",
+    "image": "https://snpoudel.github.io/images/profile.png",
+    "jobTitle": "PhD Candidate",
+    "affiliation": { "@type": "CollegeOrUniversity", "name": "Cornell University" },
+    "alumniOf": [
+      { "@type": "CollegeOrUniversity", "name": "University of Connecticut" },
+      { "@type": "CollegeOrUniversity", "name": "Institute of Engineering, Pulchowk Campus" }
+    ],
+    "knowsAbout": ["Hydrology", "Machine Learning", "Deep Learning", "Foundation Models", "Climate Risk", "Bayesian Statistics", "Flood Frequency Analysis"],
+    "sameAs": [
+      "https://scholar.google.com/citations?user=wMsDspYAAAAJ",
+      "https://github.com/snpoudel",
+      "https://www.linkedin.com/in/sandeeppoudel"
+    ]
+  }
+  </script>
 </head>
 <body>
+  <a class="skip-link" href="#main">Skip to content</a>
 
   <!-- ── Navigation ─────────────────────────────────────────────────── -->
-  <nav id="navbar">
-    <div class="nav-inner">
-      <a href="#hero" class="nav-brand">Sandeep Poudel</a>
-      <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
-        <span></span><span></span><span></span>
-      </button>
+  <header id="navbar">
+    <nav class="nav-inner" aria-label="Main">
+      <a href="#top" class="nav-brand">Sandeep Poudel</a>
       <ul class="nav-links" id="nav-links">
-        <li><a href="#about"        class="nav-link">About</a></li>
-        <li><a href="#education"    class="nav-link">Education</a></li>
-        <li><a href="#experience"   class="nav-link">Experience</a></li>
         <li><a href="#research"     class="nav-link">Research</a></li>
         <li><a href="#publications" class="nav-link">Publications</a></li>
+        <li><a href="#news"         class="nav-link">News</a></li>
+        <li><a href="#experience"   class="nav-link">Experience</a></li>
         <li><a href="#contact"      class="nav-link">Contact</a></li>
       </ul>
-    </div>
-  </nav>
-
-  <!-- ── Hero ───────────────────────────────────────────────────────── -->
-  <!-- EDIT: hero — update name, title line, tagline, and social links below -->
-  <section id="hero">
-    <div class="hero-inner">
-      <div class="hero-text">
-        <h1>Sandeep Poudel</h1>
-        <p class="hero-title">PhD Candidate &middot; Civil &amp; Environmental Engineering &middot; Cornell University</p>
-        <p class="hero-tagline">My work sits at the intersection of AI, hydrology, and climate risk. I develop physical, machine-learning, and physics-informed ML models to study environmental systems, quantify risk, and improve predictions.</p>
-        <div class="social-links">
-          <a href="https://www.linkedin.com/in/sandeeppoudel" target="_blank" rel="noopener" aria-label="LinkedIn">
-            <i class="fa-brands fa-linkedin-in"></i>
-          </a>
-          <a href="https://github.com/snpoudel" target="_blank" rel="noopener" aria-label="GitHub">
-            <i class="fa-brands fa-github"></i>
-          </a>
-          <a href="https://scholar.google.com/citations?user=wMsDspYAAAAJ&hl=en" target="_blank" rel="noopener" aria-label="Google Scholar">
-            <i class="fa-solid fa-graduation-cap"></i>
-          </a>
-          <a href="mailto:sp2596@cornell.edu" aria-label="Email">
-            <i class="fa-solid fa-envelope"></i>
-          </a>
-        </div>
-        <a href="#research" class="btn-primary">View Research</a>
+      <div class="nav-actions">
+        <button class="theme-toggle" type="button" aria-label="Toggle dark mode">
+          <i class="fa-solid fa-moon icon-moon" aria-hidden="true"></i>
+          <i class="fa-solid fa-sun icon-sun" aria-hidden="true"></i>
+        </button>
+        <button class="nav-toggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="nav-links">
+          <span></span><span></span>
+        </button>
       </div>
-      <div class="hero-photo">
-        <!-- EDIT: to change your photo, replace images/profile.png with your new photo (keep the same filename) -->
-        <img src="images/profile.png" alt="Sandeep Poudel">
+    </nav>
+  </header>
+
+  <main id="main">
+
+    <!-- ── Intro ────────────────────────────────────────────────────── -->
+    <!-- EDIT: intro — title line, bio, links, and the "Featured in" line -->
+    <section id="top" class="intro">
+      <div class="intro-inner">
+        <div class="intro-text">
+          <p class="eyebrow">PhD Candidate · Cornell University</p>
+          <h1>Sandeep Poudel</h1>
+          <p class="lede">
+            I work where AI meets hydrology and climate risk, building models that predict
+            floods, streamflow, and Earth system change, and that are honest about their uncertainty.
+          </p>
+          <p>
+            At Cornell, I'm doing my PhD advised by
+            <a href="https://blogs.cornell.edu/steinschneider/" target="_blank" rel="noopener">Prof. Scott Steinschneider</a>,
+            and this past summer I worked on multi-domain foundation models for Earth system prediction at
+            <a href="https://www.woodwellclimate.org/" target="_blank" rel="noopener">Woodwell Climate Research Center</a>.
+            I grew up in Nepal and came to the US for grad school. When I'm away from models
+            and data, you'll probably find me out in nature, halfway through a sci-fi novel,
+            binge-watching a good show, or a few moves deep into a game of chess.
+          </p>
+
+          <ul class="intro-links">
+            <li><a href="mailto:sp2596@cornell.edu"><i class="fa-solid fa-envelope" aria-hidden="true"></i>Email</a></li>
+            <li><a href="https://scholar.google.com/citations?user=wMsDspYAAAAJ&amp;hl=en" target="_blank" rel="noopener"><i class="fa-solid fa-graduation-cap" aria-hidden="true"></i>Scholar</a></li>
+            <li><a href="https://github.com/snpoudel" target="_blank" rel="noopener"><i class="fa-brands fa-github" aria-hidden="true"></i>GitHub</a></li>
+            <li><a href="https://www.linkedin.com/in/sandeeppoudel" target="_blank" rel="noopener"><i class="fa-brands fa-linkedin-in" aria-hidden="true"></i>LinkedIn</a></li>
+          </ul>
+
+          <p class="featured">
+            <span>Featured in</span>
+            <a href="https://news.cornell.edu/stories/2026/01/ai-improves-flood-projections-under-climate-change" target="_blank" rel="noopener">Cornell Chronicle</a>
+            <a href="https://smartwatermagazine.com/news/smart-water-magazine/ai-enhances-flood-risk-projections-face-climate-change" target="_blank" rel="noopener">Smart Water Magazine</a>
+            <a href="https://today.uconn.edu/2024/11/us-flood-governance-drives-social-inequity-and-maybe-the-next-housing-market-crash/" target="_blank" rel="noopener">UConn Today</a>
+          </p>
+        </div>
+
+        <figure class="intro-photo">
+          <!-- EDIT: replace images/profile.png with a new photo (keep the filename) -->
+          <img src="images/profile.png" alt="Portrait of Sandeep Poudel outdoors" width="1369" height="1600">
+        </figure>
       </div>
-    </div>
-  </section>
 
-  <!-- ── About ──────────────────────────────────────────────────────── -->
-  <section id="about">
-    <div class="container">
-      <span class="section-label">About</span>
-      <h2>About Me</h2>
-      <!-- EDIT: about — update the paragraphs below with your bio -->
-      <div class="about-text">
-        <p>Hi! I'm Sandeep, a PhD student in Civil and Environmental Engineering at
-          <a href="https://www.cornell.edu/" target="_blank" rel="noopener">Cornell University</a>
-          and a Graduate Research Assistant with the
-          <a href="https://blogs.cornell.edu/steinschneider/" target="_blank" rel="noopener">Steinschneider Research Group</a>.
-        </p>
-        <p>I grew up in Nepal and came to the United States for graduate school. My work sits at the intersection of AI, statistics, and hydrology. I study water, environmental, and climate systems and aim to help improve their resilience in a changing climate.</p>
-        <p>When I'm not working with data and models, I'm usually somewhere out in nature, reading a sci-fi novel, watching a good show, or playing a few games of chess.</p>
+      <!-- Slowly drifting water surface. Each layer is two identical periods wide, so shifting by half loops seamlessly. -->
+      <div class="waves" aria-hidden="true">
+        <svg viewBox="0 0 2880 140" preserveAspectRatio="none">
+          <defs>
+            <linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
+              <stop offset="0" stop-color="currentColor" stop-opacity=".09"/>
+              <stop offset="1" stop-color="currentColor" stop-opacity="0"/>
+            </linearGradient>
+          </defs>
+          <path class="wave wave-1" d="M0 34 Q360 16 720 34 T1440 34 T2160 34 T2880 34"/>
+          <path class="wave wave-2" d="M0 56 Q180 42 360 56 T720 56 T1080 56 T1440 56 T1800 56 T2160 56 T2520 56 T2880 56"/>
+          <path class="wave wave-3" d="M0 76 Q120 66 240 76 T480 76 T720 76 T960 76 T1200 76 T1440 76 T1680 76 T1920 76 T2160 76 T2400 76 T2640 76 T2880 76"/>
+          <path class="wave wave-4" d="M0 94 Q90 86 180 94 T360 94 T540 94 T720 94 T900 94 T1080 94 T1260 94 T1440 94 T1620 94 T1800 94 T1980 94 T2160 94 T2340 94 T2520 94 T2700 94 T2880 94"/>
+          <path class="wave water" d="M0 94 Q90 86 180 94 T360 94 T540 94 T720 94 T900 94 T1080 94 T1260 94 T1440 94 T1620 94 T1800 94 T1980 94 T2160 94 T2340 94 T2520 94 T2700 94 T2880 94 L2880 140 L0 140 Z"/>
+        </svg>
       </div>
-    </div>
-  </section>
+    </section>
 
-  <!-- ── Education ──────────────────────────────────────────────────── -->
-  <section id="education" class="alt-bg">
-    <div class="container">
-      <span class="section-label">Education</span>
-      <h2>Education</h2>
-      <!-- EDIT: education — copy a <div class="timeline-item"> block to add a new degree.
-           Update the date, degree name, institution, and location. -->
-      <div class="timeline">
-
-        <div class="timeline-item">
-          <div class="timeline-date">2024 – Present</div>
-          <div class="timeline-content">
-            <h3>PhD, Civil and Environmental Engineering</h3>
-            <p class="timeline-place">Cornell University &middot; Ithaca, NY</p>
-          </div>
+    <!-- ── Research ─────────────────────────────────────────────────── -->
+    <!-- EDIT: research — each <article class="project"> is one project.
+         The first three are always visible; the rest go inside <div class="more">. -->
+    <section id="research" class="section">
+      <div class="section-inner">
+        <div class="section-head">
+          <h2>Research</h2>
         </div>
 
-        <div class="timeline-item">
-          <div class="timeline-date">2022 – 2024</div>
-          <div class="timeline-content">
-            <h3>MS, Water Resources</h3>
-            <p class="timeline-place">University of Connecticut &middot; Storrs, CT</p>
-          </div>
-        </div>
+        <div>
+          <div class="projects">
+            <article class="project">
+              <p class="project-meta">Woodwell Climate Research Center · 2026</p>
+              <h3>Foundation models for Earth system prediction</h3>
+              <p>At Woodwell, I tested whether a single time-series deep learning model can learn to predict across very different parts of the Earth system, instead of training a separate model for each one.</p>
+              <p>I pretrained models from scratch and fine-tuned them on Arctic permafrost, Amazon wildfire and hydrology, and rangeland carbon-flux data together. They substantially outperformed existing baselines, with the largest gains in data-scarce domains, where learning from the other domains helped most.</p>
+              <p class="project-links"><span class="status">Manuscript in preparation</span></p>
+            </article>
 
-        <div class="timeline-item">
-          <div class="timeline-date">2014 – 2019</div>
-          <div class="timeline-content">
-            <h3>BS, Civil Engineering</h3>
-            <p class="timeline-place">Institute of Engineering, Pulchowk &middot; Kathmandu, Nepal</p>
-          </div>
-        </div>
+            <article class="project">
+              <p class="project-meta">Cornell · 2024 – now</p>
+              <h3>Deep learning and hybrid hydrologic models</h3>
+              <p>Hybrid, differentiable models use a neural network to learn the parameters of a process-based hydrologic model, and are often built with parameters that change over time. Across 531 US basins, I showed that this extra flexibility isn't needed: time-varying parameters gave no predictive advantage, and a small network with static, basin-specific parameters matched an LSTM while staying interpretable.</p>
+              <p>I'm now developing a probabilistic streamflow prediction framework with deep learning and hybrid models, to support risk assessment of reservoir operations.</p>
+              <p class="project-links">
+                <a href="https://hess.copernicus.org/articles/30/5173/2026/" target="_blank" rel="noopener">HESS 2026</a>
+              </p>
+            </article>
 
-      </div>
-    </div>
-  </section>
+            <article class="project">
+              <p class="project-meta">University of Connecticut · 2022 – 2024</p>
+              <h3>Flood risk, insurance, and coastal housing</h3>
+              <p>How does flooding shape home values? Modeling 496 coastal census tracts in New York, New Jersey, and Connecticut from 1970 to 2021, I found that federal flood insurance (NFIP) absorbed the initial shock of Hurricane Sandy, but home values then declined over the long term, with the largest drops where insurance participation changed most after the storm.</p>
+              <p>Extending these models to all coastal census tracts in the contiguous US, I projected that flood insurance claims could rise 25% under a low-emissions scenario and 130% under a high-emissions scenario by 2100, mainly affecting socially vulnerable communities.</p>
+              <p class="project-links">
+                <a href="https://iopscience.iop.org/article/10.1088/1748-9326/acea38/meta" target="_blank" rel="noopener">Env. Res. Letters 2023</a>
+                <a href="https://www.nature.com/articles/s43247-024-01848-z" target="_blank" rel="noopener">Comm. Earth &amp; Env. 2024</a>
+              </p>
+            </article>
+          </div>
 
-  <!-- ── Experience ─────────────────────────────────────────────────── -->
-  <section id="experience">
-    <div class="container">
-      <span class="section-label">Experience</span>
-      <h2>Experience</h2>
-      <!-- EDIT: experience — copy a <div class="timeline-item"> block to add a new position.
-           Update the date range, job title, org name/link, and location. -->
-      <div class="timeline">
+          <div class="more" id="research-more" hidden>
+            <div class="projects">
+              <article class="project">
+                <p class="project-meta">Cornell · 2024 – now</p>
+                <h3>Design floods under climate change</h3>
+                <p>Bridges, dams, and culverts are designed for rare floods, and hydrologic models are used to project how those design floods will change. In a model-as-truth experiment across 30 Massachusetts basins, I tested how reliable those projected changes are from six models: three process-based, one deep learning, and two hybrid. The deep learning model was the most accurate, but every model carried large uncertainty, driven more by model structure and parameters than by input data.</p>
+                <p>In a follow-up study, I showed that pooling projections across basins with a Bayesian hierarchical model substantially reduces both their bias and variance, whereas simple median pooling reduces only the variance.</p>
+                <p class="project-links">
+                  <a href="https://www.sciencedirect.com/science/article/pii/S0022169425017676" target="_blank" rel="noopener">J. Hydrology 2025</a>
+                  <a href="https://ascelibrary.org/doi/abs/10.1061/JHYEFF.HEENG-6837" target="_blank" rel="noopener">J. Hydrol. Eng. 2026</a>
+                  <a href="https://news.cornell.edu/stories/2026/01/ai-improves-flood-projections-under-climate-change" target="_blank" rel="noopener">Cornell Chronicle</a>
+                </p>
+              </article>
 
-        <div class="timeline-item">
-          <div class="timeline-date">Jun 2024 – Present</div>
-          <div class="timeline-content">
-            <h3>Graduate Research Assistant</h3>
-            <p class="timeline-place">
-              <a href="https://blogs.cornell.edu/steinschneider/" target="_blank" rel="noopener">Steinschneider Research Group</a>
-              &middot; Cornell University &middot; Ithaca, NY
-            </p>
-          </div>
-        </div>
+              <article class="project">
+                <p class="project-meta">Cornell · 2025</p>
+                <h3>Streamflow prediction in ungauged basins</h3>
+                <p>Most of the world's rivers are ungauged or poorly gauged, and newer deep learning models have improved little on standard LSTMs for predicting them. I developed the Cross-Basin Attention LSTM (XBA-LSTM), which uses attention to share information across basins, and showed a meaningful improvement in ungauged-basin prediction across 531 CAMELS-US basins.</p>
+                <p class="project-links">
+                  <a href="https://ui.adsabs.harvard.edu/abs/2025AGUFMH31R.1321P/abstract" target="_blank" rel="noopener">AGU 2025</a>
+                  <a href="https://github.com/snpoudel/Attention-LSTM-PUB" target="_blank" rel="noopener">Code</a>
+                </p>
+              </article>
 
-        <div class="timeline-item">
-          <div class="timeline-date">Aug 2022 – Jun 2024</div>
-          <div class="timeline-content">
-            <h3>Graduate Research Assistant</h3>
-            <p class="timeline-place">
-              <a href="http://www.jamesknightonhydrology.com/" target="_blank" rel="noopener">Knighton Ecohydrology Lab</a>
-              &middot; University of Connecticut &middot; Storrs, CT
-            </p>
+              <article class="project">
+                <p class="project-meta">Nepal</p>
+                <h3>Climate change and hydropower design in Nepal</h3>
+                <p>Small hydropower projects in Nepal are usually designed from historical streamflow alone, which can underestimate future floods. For four basins with small hydropower, I calibrated process-based HBV models, added a machine learning post-processor to correct their errors, and projected changes in 25-, 50-, and 100-year design floods under CMIP6 climate scenarios.</p>
+                <p class="project-links">
+                  <a href="https://iwaponline.com/jwcc/article/doi/10.2166/wcc.2026.437/111682" target="_blank" rel="noopener">J. Water &amp; Climate Change 2026</a>
+                </p>
+              </article>
+            </div>
           </div>
-        </div>
-
-        <div class="timeline-item">
-          <div class="timeline-date">Jan 2020 – Jul 2022</div>
-          <div class="timeline-content">
-            <h3>Civil Engineer &mdash; Hydraulic &amp; Hydrologic</h3>
-            <p class="timeline-place">
-              <a href="http://www.hcel.com.np" target="_blank" rel="noopener">Hydro-Consult Engineering</a>
-              &middot; Nepal
-            </p>
-          </div>
-        </div>
-
-        <div class="timeline-item">
-          <div class="timeline-date">Apr 2019 – Aug 2019</div>
-          <div class="timeline-content">
-            <h3>Data Specialist</h3>
-            <p class="timeline-place">
-              <a href="https://www.cloudfactory.com/" target="_blank" rel="noopener">Cloud Factory</a>
-              &middot; Nepal
-            </p>
-          </div>
-        </div>
-
-      </div>
-    </div>
-  </section>
-
-  <!-- ── Research ───────────────────────────────────────────────────── -->
-  <section id="research" class="alt-bg">
-    <div class="container">
-      <span class="section-label">Research</span>
-      <h2>Research Projects</h2>
-      <p class="section-intro">
-        Browse my research projects on
-        <a href="https://github.com/snpoudel" target="_blank" rel="noopener">GitHub</a>.
-      </p>
-      <!-- EDIT: research — copy a <div class="research-card"> block to add a new project.
-           Set the badge class: badge-published, badge-review, or badge-prep.
-           Add links in the <div class="card-links"> block at the bottom of the card. -->
-      <div class="research-grid">
-
-        <div class="research-card">
-          <div class="card-header">
-            <span class="badge badge-review">Under Review</span>
-          </div>
-          <h3>Physics-Based Machine Learning in Hydrology</h3>
-          <p>Integrating neural networks with process-based hydrological models in a end-to-end gradient-based framework to improve out-of-sample prediction and fidelity under climate change.</p>
-          <div class="card-links">
-            <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wMsDspYAAAAJ&citation_for_view=wMsDspYAAAAJ:zYLM7Y9cAGgC"
-               target="_blank" rel="noopener" class="card-link">
-              <i class="fa-solid fa-arrow-up-right-from-square"></i> Preprint
-            </a>
-          </div>
-        </div>
-
-        <div class="research-card">
-          <div class="card-header">
-            <span class="badge badge-prep">In Preparation</span>
-          </div>
-          <h3>Attention-Based LSTM Models for Streamflow Prediction</h3>
-          <p>Evaluating attention-enhanced LSTM networks against standard architectures to improve accuracy in ungauged basin prediction.</p>
-          <div class="card-links">
-            <a href="https://github.com/snpoudel/Attention-LSTM-PUB"
-               target="_blank" rel="noopener" class="card-link">
-              <i class="fa-brands fa-github"></i> Code
-            </a>
-          </div>
-        </div>
-
-        <div class="research-card">
-          <div class="card-header">
-            <span class="badge badge-review">Under Review</span>
-            <span class="card-journal">Journal of Hydrologic Engineering</span>
-          </div>
-          <h3>Bayesian Hierarchical Modeling for Flood-Change Projection Uncertainty</h3>
-          <p>A Bayesian hierarchical framework for regionally pooling flood-change projections from deep learning and hybrid models, reducing uncertainty for water infrastructure planning.</p>
-          <div class="card-links">
-            <a href="https://waterprogramming.wpcomstaging.com/2025/11/10/uncertainty-in-design-flood-change-projections-and-ways-to-reduce-it/"
-               target="_blank" rel="noopener" class="card-link">
-              <i class="fa-solid fa-pen-to-square"></i> Blog Post
-            </a>
-          </div>
-        </div>
-
-        <div class="research-card">
-          <div class="card-header">
-            <span class="badge badge-published">Published</span>
-            <span class="card-journal">Journal of Hydrology</span>
-          </div>
-          <h3>Uncertainty in Design Flood Changes Across Hydrological Model Types</h3>
-          <p>Investigating uncertainty in climate-driven design flood projections across process-based, deep learning, and hybrid hydrological models under varying levels of precipitation uncertainty.</p>
-          <div class="card-links">
-            <a href="https://www.sciencedirect.com/science/article/pii/S0022169425017676?via%3Dihub"
-               target="_blank" rel="noopener" class="card-link">
-              <i class="fa-solid fa-arrow-up-right-from-square"></i> Paper
-            </a>
-            <a href="https://news.cornell.edu/stories/2026/01/ai-improves-flood-projections-under-climate-change"
-               target="_blank" rel="noopener" class="card-link">
-              <i class="fa-solid fa-newspaper"></i> Cornell Chronicle
-            </a>
-            <a href="https://smartwatermagazine.com/news/smart-water-magazine/ai-enhances-flood-risk-projections-face-climate-change"  
-               target="_blank" rel="noopener" class="card-link">
-              <i class="fa-solid fa-newspaper"></i> Smart Water Mag
-            </a>
-          </div>
-        </div>
-
-        <div class="research-card">
-          <div class="card-header">
-            <span class="badge badge-published">Published</span>
-            <span class="card-journal">Nature Comm. Earth &amp; Environment</span>
-          </div>
-          <h3>US Coastal Housing Market and the National Flood Insurance Program</h3>
-          <p>Investigating the impact of future climate risks to US housing market and National Flood Insurance Program.</p>
-          <div class="card-links">
-            <a href="https://www.nature.com/articles/s43247-024-01848-z"
-               target="_blank" rel="noopener" class="card-link">
-              <i class="fa-solid fa-arrow-up-right-from-square"></i> Paper
-            </a>
-            <a href="https://today.uconn.edu/2024/11/us-flood-governance-drives-social-inequity-and-maybe-the-next-housing-market-crash/"
-               target="_blank" rel="noopener" class="card-link">
-              <i class="fa-solid fa-newspaper"></i> Press
-            </a>
-          </div>
-        </div>
-
-        <div class="research-card">
-          <div class="card-header">
-            <span class="badge badge-published">Published</span>
-            <span class="card-journal">Environmental Research Letters</span>
-          </div>
-          <h3>Flood Insurance, Risk Perception, and Coastal Housing Dynamics</h3>
-          <p>Analyzing historical housing data from NY/NJ/CT, finding that NFIP participation, risk perception, and flood memory are key regional drivers of home values following Hurricane Sandy.</p>
-          <div class="card-links">
-            <a href="https://iopscience.iop.org/article/10.1088/1748-9326/acea38/meta"
-               target="_blank" rel="noopener" class="card-link">
-              <i class="fa-solid fa-arrow-up-right-from-square"></i> Paper
-            </a>
-          </div>
-        </div>
-
-      </div>
-    </div>
-  </section>
-
-  <!-- ── Publications ───────────────────────────────────────────────── -->
-  <section id="publications">
-    <div class="container">
-      <span class="section-label">Publications</span>
-      <h2>Recent Publications</h2>
-      <p class="section-intro">
-        Full list of publications on
-        <a href="https://scholar.google.com/citations?user=wMsDspYAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>.
-      </p>
-      <!-- To update publications: run  python update_publications.py  then commit and push. -->
-      <div id="pub-list">
-        <div class="pub-loading">
-          <span class="pub-spinner"></span> Loading publications&hellip;
+          <button class="show-more" type="button" aria-expanded="false" aria-controls="research-more"
+                  data-more="More research" data-less="Show less">
+            <span class="show-more-label">More research</span><span class="count">+3</span>
+            <i class="fa-solid fa-chevron-down" aria-hidden="true"></i>
+          </button>
         </div>
       </div>
-    </div>
-  </section>
+    </section>
 
-  <!-- ── News / Press ───────────────────────────────────────────────── -->
-  <section id="news" class="alt-bg">
-    <div class="container">
-      <span class="section-label">In the News</span>
-      <h2>Press &amp; Media</h2>
-      <!-- EDIT: news — copy one <a class="news-item"> block to add a new press mention.
-           Fill in: the source name, year, and headline. Keep newest items first. -->
-      <div class="news-list">
-
-        <a class="news-item" href="https://news.cornell.edu/stories/2026/01/ai-improves-flood-projections-under-climate-change" target="_blank" rel="noopener">
-          <span class="news-source">Cornell Chronicle, 2026</span>
-          <span class="news-headline">AI Improves Flood Projections Under Climate Change</span>
-          <i class="fa-solid fa-arrow-up-right-from-square news-icon"></i>
-        </a>
-
-        <a class="news-item" href="https://smartwatermagazine.com/news/smart-water-magazine/ai-enhances-flood-risk-projections-face-climate-change" target="_blank" rel="noopener">
-          <span class="news-source">Smart Water Magazine, 2026</span>
-          <span class="news-headline">AI Enhances Flood Risk Projections in the Face of Climate Change</span>
-          <i class="fa-solid fa-arrow-up-right-from-square news-icon"></i>
-        </a>
-
-        <a class="news-item" href="https://waterprogramming.wpcomstaging.com/2025/11/10/uncertainty-in-design-flood-change-projections-and-ways-to-reduce-it/" target="_blank" rel="noopener">
-          <span class="news-source">Water Programming Blog, 2025</span>
-          <span class="news-headline">Uncertainty in Design Flood Change Projections and Ways to Reduce It</span>
-          <i class="fa-solid fa-arrow-up-right-from-square news-icon"></i>
-        </a>
-
-        <a class="news-item" href="https://today.uconn.edu/2024/11/us-flood-governance-drives-social-inequity-and-maybe-the-next-housing-market-crash/" target="_blank" rel="noopener">
-          <span class="news-source">UConn Today, 2024</span>
-          <span class="news-headline">US Flood Governance Drives Social Inequity and Maybe the Next Housing Market Crash</span>
-          <i class="fa-solid fa-arrow-up-right-from-square news-icon"></i>
-        </a>
-
-        <a class="news-item" href="https://communities.springernature.com/posts/us-flood-governance-drives-social-inequity-and-maybe-the-next-housing-market-crash" target="_blank" rel="noopener">
-          <span class="news-source">Springer Nature, 2024</span>
-          <span class="news-headline">US Flood Governance Drives Social Inequity and Maybe the Next Housing Market Crash</span>
-          <i class="fa-solid fa-arrow-up-right-from-square news-icon"></i>
-        </a>
-
+    <!-- ── Publications ─────────────────────────────────────────────── -->
+    <!-- Rendered from publications.json: the 5 most recent papers show first,
+         the rest sit behind the same "show more" button as the other sections.
+         To add new papers from Google Scholar: python update_publications.py -->
+    <section id="publications" class="section">
+      <div class="section-inner">
+        <div class="section-head">
+          <h2>Publications</h2>
+        </div>
+        <div id="pub-list">
+          <noscript>
+            <p>See the full list on <a href="https://scholar.google.com/citations?user=wMsDspYAAAAJ&amp;hl=en">Google Scholar</a>.</p>
+          </noscript>
+        </div>
       </div>
-    </div>
-  </section>
+    </section>
 
-  <!-- ── Contact ────────────────────────────────────────────────────── -->
-  <section id="contact">
-    <div class="container">
-      <span class="section-label">Contact</span>
-      <h2>Get in Touch</h2>
-      <p class="contact-intro">I'm always happy to connect about research, collaboration, or just a conversation.</p>
-      <!-- EDIT: contact — update email address, LinkedIn handle, GitHub username, and Scholar URL -->
-      <div class="contact-list">
-        <a href="mailto:sp2596@cornell.edu" class="contact-item">
-          <i class="fa-solid fa-envelope"></i>
-          <span>sp2596 at cornell.edu</span>
-        </a>
-        <a href="https://www.linkedin.com/in/sandeeppoudel" target="_blank" rel="noopener" class="contact-item">
-          <i class="fa-brands fa-linkedin-in"></i>
-          <span>linkedin.com/in/sandeeppoudel</span>
-        </a>
-        <a href="https://github.com/snpoudel" target="_blank" rel="noopener" class="contact-item">
-          <i class="fa-brands fa-github"></i>
-          <span>github.com/snpoudel</span>
-        </a>
-        <a href="https://scholar.google.com/citations?user=wMsDspYAAAAJ&hl=en" target="_blank" rel="noopener" class="contact-item">
-          <i class="fa-solid fa-graduation-cap"></i>
-          <span>Google Scholar</span>
-        </a>
+    <!-- ── News ─────────────────────────────────────────────────────── -->
+    <!-- EDIT: news — press and features only. Copy an <li> to the top; keep three visible
+         and move older ones into <div class="more">. -->
+    <section id="news" class="section">
+      <div class="section-inner">
+        <div class="section-head">
+          <h2>News</h2>
+        </div>
+        <div>
+          <ul class="news">
+            <li>
+              <time datetime="2026-01">Jan 2026</time>
+              <p><span class="outlet">Cornell Chronicle</span> <a href="https://news.cornell.edu/stories/2026/01/ai-improves-flood-projections-under-climate-change" target="_blank" rel="noopener">AI improves flood projections under climate change</a></p>
+            </li>
+            <li>
+              <time datetime="2026-01">Jan 2026</time>
+              <p><span class="outlet">Smart Water Magazine</span> <a href="https://smartwatermagazine.com/news/smart-water-magazine/ai-enhances-flood-risk-projections-face-climate-change" target="_blank" rel="noopener">AI enhances flood risk projections in the face of climate change</a></p>
+            </li>
+            <li>
+              <time datetime="2025-11">Nov 2025</time>
+              <p><span class="outlet">Water Programming Blog</span> <a href="https://waterprogramming.wpcomstaging.com/2025/11/10/uncertainty-in-design-flood-change-projections-and-ways-to-reduce-it/" target="_blank" rel="noopener">Uncertainty in design flood change projections and ways to reduce it</a></p>
+            </li>
+          </ul>
+          <div class="more" id="news-more" hidden>
+            <ul class="news">
+              <li>
+                <time datetime="2024-11">Nov 2024</time>
+                <p><span class="outlet">UConn Today</span> <a href="https://today.uconn.edu/2024/11/us-flood-governance-drives-social-inequity-and-maybe-the-next-housing-market-crash/" target="_blank" rel="noopener">US flood governance drives social inequity, and maybe the next housing market crash</a></p>
+              </li>
+              <li>
+                <time datetime="2024-11">Nov 2024</time>
+                <p><span class="outlet">Springer Nature</span> <a href="https://communities.springernature.com/posts/us-flood-governance-drives-social-inequity-and-maybe-the-next-housing-market-crash" target="_blank" rel="noopener">US flood governance drives social inequity and maybe the next housing market crash</a></p>
+              </li>
+            </ul>
+          </div>
+          <button class="show-more" type="button" aria-expanded="false" aria-controls="news-more"
+                  data-more="Earlier news" data-less="Show less">
+            <span class="show-more-label">Earlier news</span><span class="count">+2</span>
+            <i class="fa-solid fa-chevron-down" aria-hidden="true"></i>
+          </button>
+        </div>
       </div>
-    </div>
-  </section>
+    </section>
 
-  <!-- ── Footer ─────────────────────────────────────────────────────── -->
-  <footer>
-    <p>&copy; 2026 Sandeep Poudel</p>
+    <!-- ── Experience & Education ───────────────────────────────────── -->
+    <!-- EDIT: experience — copy an <li class="row"> block, newest first. -->
+    <section id="experience" class="section">
+      <div class="section-inner">
+        <div class="section-head">
+          <h2>Experience</h2>
+        </div>
+
+        <div class="xp-columns">
+          <div>
+            <h3 class="sub-heading">Work</h3>
+            <ul class="rows">
+              <li class="row">
+                <time>2026</time>
+                <div>
+                  <p class="row-title">Geospatial Data Scientist Intern</p>
+                  <p class="row-sub">Woodwell Climate Research Center</p>
+                </div>
+              </li>
+              <li class="row">
+                <time>2024 – now</time>
+                <div>
+                  <p class="row-title">Graduate Research Assistant</p>
+                  <p class="row-sub">Cornell University</p>
+                </div>
+              </li>
+              <li class="row">
+                <time>2022 – 24</time>
+                <div>
+                  <p class="row-title">Graduate Research Assistant</p>
+                  <p class="row-sub">University of Connecticut</p>
+                </div>
+              </li>
+              <li class="row">
+                <time>2020 – 22</time>
+                <div>
+                  <p class="row-title">Civil Engineer, Hydraulics &amp; Hydrology</p>
+                  <p class="row-sub">Hydro-Consult Engineering, Nepal</p>
+                </div>
+              </li>
+            </ul>
+          </div>
+
+          <div>
+            <h3 class="sub-heading">Education</h3>
+            <ul class="rows">
+              <li class="row">
+                <time>Present</time>
+                <div>
+                  <p class="row-title">PhD, Civil &amp; Environmental Engineering</p>
+                  <p class="row-sub">Cornell University</p>
+                </div>
+              </li>
+              <li class="row">
+                <time>2024</time>
+                <div>
+                  <p class="row-title">MS, Natural Resources &amp; Environment</p>
+                  <p class="row-sub">University of Connecticut</p>
+                </div>
+              </li>
+              <li class="row">
+                <time>2019</time>
+                <div>
+                  <p class="row-title">BS, Civil Engineering</p>
+                  <p class="row-sub">Institute of Engineering, Pulchowk, Nepal</p>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ── Contact ──────────────────────────────────────────────────── -->
+    <section id="contact" class="section">
+      <div class="section-inner">
+        <div class="section-head">
+          <h2>Contact</h2>
+        </div>
+        <div class="contact">
+          <p class="contact-lede">Happy to talk research, collaboration, or anything water.</p>
+          <p class="contact-email">
+            <a href="mailto:sp2596@cornell.edu">sp2596@cornell.edu</a>
+          </p>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+      <p>&copy; <span id="year">2026</span> Sandeep Poudel<span class="updated"></span></p>
+      <ul class="footer-links">
+        <li><a href="https://scholar.google.com/citations?user=wMsDspYAAAAJ&amp;hl=en" target="_blank" rel="noopener">Scholar</a></li>
+        <li><a href="https://github.com/snpoudel" target="_blank" rel="noopener">GitHub</a></li>
+        <li><a href="https://www.linkedin.com/in/sandeeppoudel" target="_blank" rel="noopener">LinkedIn</a></li>
+        <li><a href="#top">Back to top ↑</a></li>
+      </ul>
+    </div>
   </footer>
 
   <script src="script.js"></script>

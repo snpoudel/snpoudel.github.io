@@ -1,60 +1,205 @@
 [
   {
-    "title": "An argument for parsimony in differentiable hydrologic models",
-    "year": 2026,
-    "venue": "EGUsphere",
+    "scholar_id": "eQOLeE2rZwMC",
+    "type": "journal",
+    "title": "Bayesian hierarchical pooling to reduce uncertainty in projected change of design floods",
     "authors": [
-      "Poudel",
-      "Steinschneider"
+      "S. Poudel",
+      "S. Steinschneider"
     ],
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wMsDspYAAAAJ&citation_for_view=wMsDspYAAAAJ:zYLM7Y9cAGgC"
+    "year": 2026,
+    "venue": "Journal of Hydrologic Engineering",
+    "details": "31(5), 06026001",
+    "url": "https://ascelibrary.org/doi/abs/10.1061/JHYEFF.HEENG-6837",
+    "links": [
+      {
+        "label": "Blog",
+        "url": "https://waterprogramming.wpcomstaging.com/2025/11/10/uncertainty-in-design-flood-change-projections-and-ways-to-reduce-it/"
+      }
+    ]
   },
   {
+    "scholar_id": "zYLM7Y9cAGgC",
+    "type": "journal",
+    "title": "An argument for parsimony in differentiable hydrologic models",
+    "authors": [
+      "S. Poudel",
+      "S. Steinschneider"
+    ],
+    "year": 2026,
+    "venue": "Hydrology and Earth System Sciences",
+    "details": "30(15), 5173–5193",
+    "url": "https://hess.copernicus.org/articles/30/5173/2026/",
+    "links": []
+  },
+  {
+    "scholar_id": "IjCSPb-OGe4C",
+    "type": "journal",
     "title": "Deep learning error post-processing improves stochastic watershed modeling",
+    "authors": [
+      "B. Manoli",
+      "S. Poudel",
+      "D. K. Koval",
+      "S. Y. Murphy",
+      "S. Steinschneider",
+      "J. Lamontagne"
+    ],
     "year": 2026,
     "venue": "Journal of Hydrology",
-    "authors": [
-      "Manoli",
-      "Poudel",
-      "Koval",
-      "Murphy",
-      "Steinschneider",
-      "Lamontagne"
-    ],
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wMsDspYAAAAJ&citation_for_view=wMsDspYAAAAJ:IjCSPb-OGe4C"
+    "details": "675, 135663",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0022169426007602",
+    "links": []
   },
   {
+    "scholar_id": "YsMSGLbcyi4C",
+    "type": "journal",
     "title": "Assessing climate change impacts on design of small hydropower projects in Nepal using a process-based hydrological model with machine learning post-processor",
+    "authors": [
+      "S. Poudel",
+      "P. Ramtel"
+    ],
     "year": 2026,
     "venue": "Journal of Water and Climate Change",
-    "authors": [
-      "Poudel",
-      "Ramtel"
-    ],
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wMsDspYAAAAJ&citation_for_view=wMsDspYAAAAJ:YsMSGLbcyi4C"
+    "details": "17(5), 1383–1399",
+    "url": "https://iwaponline.com/jwcc/article/doi/10.2166/wcc.2026.437/111682",
+    "links": []
   },
   {
+    "scholar_id": "UeHWp8X0CEIC",
+    "type": "journal",
     "title": "Uncertainty in estimating the relative change of design floods under climate change: a stylized experiment with process-based, deep learning, and hybrid models",
+    "authors": [
+      "S. Poudel",
+      "N. Najibi",
+      "S. Steinschneider"
+    ],
     "year": 2025,
     "venue": "Journal of Hydrology",
-    "authors": [
-      "Poudel",
-      "Najibi",
-      "Steinschneider"
-    ],
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wMsDspYAAAAJ&citation_for_view=wMsDspYAAAAJ:UeHWp8X0CEIC"
+    "details": "134427",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0022169425017676",
+    "links": [
+      {
+        "label": "Cornell Chronicle",
+        "url": "https://news.cornell.edu/stories/2026/01/ai-improves-flood-projections-under-climate-change"
+      },
+      {
+        "label": "Smart Water Magazine",
+        "url": "https://smartwatermagazine.com/news/smart-water-magazine/ai-enhances-flood-risk-projections-face-climate-change"
+      }
+    ]
   },
   {
+    "scholar_id": "2osOgNQ5qMEC",
+    "type": "journal",
     "title": "Differential flood insurance participation and housing market trajectories under future coastal flooding in the United States",
+    "authors": [
+      "S. Poudel",
+      "R. Elliott",
+      "R. Anyah",
+      "Z. Grabowski",
+      "J. Knighton"
+    ],
     "year": 2024,
     "venue": "Communications Earth & Environment",
+    "details": "5(1), 668",
+    "url": "https://www.nature.com/articles/s43247-024-01848-z",
+    "links": [
+      {
+        "label": "UConn Today",
+        "url": "https://today.uconn.edu/2024/11/us-flood-governance-drives-social-inequity-and-maybe-the-next-housing-market-crash/"
+      },
+      {
+        "label": "Springer Nature",
+        "url": "https://communities.springernature.com/posts/us-flood-governance-drives-social-inequity-and-maybe-the-next-housing-market-crash"
+      }
+    ]
+  },
+  {
+    "scholar_id": "u5HHmVD_uO8C",
+    "type": "journal",
+    "title": "Housing market dynamics of the post-Sandy Hudson estuary, Long Island Sound, and New Jersey coastline are explained by NFIP participation",
     "authors": [
-      "Poudel",
-      "Elliott",
-      "Anyah",
-      "Grabowski",
-      "Knighton"
+      "S. Poudel",
+      "C. Caridad",
+      "R. Elliott",
+      "J. Knighton"
     ],
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wMsDspYAAAAJ&citation_for_view=wMsDspYAAAAJ:2osOgNQ5qMEC"
+    "year": 2023,
+    "venue": "Environmental Research Letters",
+    "details": "18(9), 094009",
+    "url": "https://iopscience.iop.org/article/10.1088/1748-9326/acea38/meta",
+    "links": []
+  },
+  {
+    "scholar_id": "_FxGoFyzp5QC",
+    "type": "preprint",
+    "title": "Benchmarking global streamflow reanalysis products in Central Himalayan basins: hydrologic representation and application relevance",
+    "authors": [
+      "P. Dahal",
+      "J. Panthi",
+      "R. Talchabhadel",
+      "S. Sharma",
+      "G. R. Ghimire",
+      "S. Bista",
+      "S. Poudel",
+      "E. Ahmadisharaf"
+    ],
+    "year": null,
+    "venue": "SSRN preprint",
+    "details": "",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7389456",
+    "links": []
+  },
+  {
+    "scholar_id": "WF5omc3nYNoC",
+    "type": "conference",
+    "title": "A cross-basin, attention-based LSTM to enhance streamflow prediction in ungauged basins",
+    "authors": [
+      "S. Poudel",
+      "S. Steinschneider"
+    ],
+    "year": 2025,
+    "venue": "AGU Fall Meeting",
+    "details": "New Orleans, LA (H31R-1321)",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025AGUFMH31R.1321P/abstract",
+    "links": [
+      {
+        "label": "Code",
+        "url": "https://github.com/snpoudel/Attention-LSTM-PUB"
+      }
+    ],
+    "hidden": true
+  },
+  {
+    "scholar_id": "qjMakFHDy7sC",
+    "type": "conference",
+    "title": "Meteorological uncertainty and the limits of predictability in machine learning-based hydrologic models: a focus on extreme events",
+    "authors": [
+      "S. Poudel",
+      "S. Steinschneider"
+    ],
+    "year": 2024,
+    "venue": "AGU Fall Meeting",
+    "details": "Washington, DC (H13F-1085)",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024AGUFMH13F.1085P/abstract",
+    "links": [],
+    "hidden": true
+  },
+  {
+    "scholar_id": "u-x6o8ySG0sC",
+    "type": "conference",
+    "title": "The temporal impact of flooding on the coastal housing market of New York, New Jersey, and Connecticut in a changing climate",
+    "authors": [
+      "S. Poudel",
+      "J. Knighton",
+      "C. Caridad",
+      "R. Elliott"
+    ],
+    "year": 2023,
+    "venue": "AGU Fall Meeting",
+    "details": "San Francisco, CA (H21D-08)",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023AGUFM.H21D..08P/abstract",
+    "links": [],
+    "hidden": true
   }
 ]
