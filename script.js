@@ -8,6 +8,14 @@
   const sections     = document.querySelectorAll('main section[id]');
   const reduceMotion = matchMedia('(prefers-reduced-motion: reduce)').matches;
 
+  // ── Email links: build the address at runtime so it isn't in the page source ──
+  // <a data-email-user="name" data-email-domain="example.edu" [data-email-show]>
+  document.querySelectorAll('[data-email-user]').forEach(link => {
+    const address = link.dataset.emailUser + '@' + link.dataset.emailDomain;
+    link.href = 'mailto:' + address;
+    if ('emailShow' in link.dataset) link.textContent = address;
+  });
+
   // ── Sticky border + active nav link on scroll ───────────────────────
   function onScroll() {
     navbar.classList.toggle('scrolled', window.scrollY > 40);
