@@ -254,7 +254,7 @@ a:hover { color: var(--accent-2); text-decoration-color: currentColor; }
 }
 .intro-photo {
   flex: none;
-  width: clamp(72px, 11vw, 112px);
+  width: clamp(104px, 16vw, 150px);
   aspect-ratio: 1;
   object-fit: cover;
   object-position: 50% 28%;
