@@ -142,6 +142,53 @@
 
   loadPublications();
 
+  // ── Waves: ripple where the pointer passes ──────────────────────────
+  // Each line is redrawn as a sampled sine; a pointer move drops a ripple
+  // that spreads outward along both lines and fades within a few seconds.
+  const waves = document.querySelector('.waves');
+  if (waves && !reduceMotion) {
+    const svg = waves.querySelector('svg');
+    const W = 2880, STEP = 8;
+    const lines = [
+      { el: waves.querySelector('.wave-2'), y: 22, amp: 7, period: 720, gain: 1 },
+      { el: waves.querySelector('.wave-4'), y: 44, amp: 4, period: 360, gain: .7 },
+    ];
+    let ripples = [];
+    let frame = null;
+    let lastDrop = 0;
+
+    function draw(now) {
+      ripples = ripples.filter(r => now - r.t0 < 3500);
+      lines.forEach(line => {
+        let d = '';
+        for (let x = 0; x <= W; x += STEP) {
+          let y = line.y - line.amp * Math.sin(2 * Math.PI * x / line.period);
+          ripples.forEach(r => {
+            const age = (now - r.t0) / 1000;
+            const dist = Math.abs(x - r.x);
+            const front = dist - age * 260;   // ring travels outward
+            y += line.gain * r.amp * Math.exp(-age * 1.4) * Math.exp(-dist / 500) *
+                 Math.exp(-(front * front) / 9000) * Math.sin(dist / 28 - age * 9);
+          });
+          d += (x ? ' L' : 'M') + x + ' ' + y.toFixed(2);
+        }
+        line.el.setAttribute('d', d);
+      });
+      frame = ripples.length ? requestAnimationFrame(draw) : null;
+    }
+
+    waves.addEventListener('pointermove', e => {
+      const now = performance.now();
+      if (now - lastDrop < 90) return;
+      lastDrop = now;
+      const box = svg.getBoundingClientRect();
+      const x = ((e.clientX - box.left) / box.width) * W;
+      ripples.push({ x, t0: now, amp: 6 });
+      if (ripples.length > 10) ripples.shift();
+      if (!frame) frame = requestAnimationFrame(draw);
+    });
+  }
+
   // ── Gentle fade-in as sections scroll into view ─────────────────────
   if (!reduceMotion && 'IntersectionObserver' in window) {
     const io = new IntersectionObserver(entries => {

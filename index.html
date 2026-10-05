@@ -21,7 +21,7 @@
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,300;0,400;0,500;1,300;1,400&family=Hanken+Grotesk:wght@400;500;600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,300..600;1,6..72,300..600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
   <link rel="stylesheet" href="style.css">
 
@@ -84,21 +84,35 @@
     <!-- EDIT: intro — title line, bio, links, and the "Featured in" line -->
     <section id="top" class="intro">
       <div class="intro-inner">
+        <div class="intro-head">
+          <!-- EDIT: replace images/profile.png with a new photo (keep the filename) -->
+          <img class="intro-photo" src="images/profile.png" alt="Portrait of Sandeep Poudel outdoors" width="1369" height="1600">
+          <div>
+            <p class="eyebrow">PhD Candidate · Cornell University</p>
+            <h1>Sandeep Poudel</h1>
+          </div>
+        </div>
+
         <div class="intro-text">
-          <p class="eyebrow">PhD Candidate · Cornell University</p>
-          <h1>Sandeep Poudel</h1>
           <p class="lede">
-            I work where AI meets hydrology and climate risk, building models that predict
-            floods, streamflow, and Earth system change, and that are honest about their uncertainty.
+            I work at the intersection of AI, hydrology, and climate risk, building models to predict
+            floods, streamflow, and changes in the Earth system while accounting for uncertainty in those predictions.
           </p>
           <p>
-            At Cornell, I'm doing my PhD advised by
-            <a href="https://blogs.cornell.edu/steinschneider/" target="_blank" rel="noopener">Prof. Scott Steinschneider</a>,
-            and this past summer I worked on multi-domain foundation models for Earth system prediction at
+            I’m currently a PhD student at Cornell University in
+            <a href="https://blogs.cornell.edu/steinschneider/" target="_blank" rel="noopener">Prof. Scott Steinschneider’s</a>
+            research group, where I work on improving how we predict and understand water, environmental,
+            and climate systems. This past summer, I worked on multi-domain foundation models for
+            Earth system prediction at the
             <a href="https://www.woodwellclimate.org/" target="_blank" rel="noopener">Woodwell Climate Research Center</a>.
-            I grew up in Nepal and came to the US for grad school. When I'm away from models
-            and data, you'll probably find me out in nature, halfway through a sci-fi novel,
-            binge-watching a good show, or a few moves deep into a game of chess.
+          </p>
+          <p>
+            I grew up in Nepal and became interested in environmental and water systems during my
+            undergraduate studies. That interest eventually brought me to the US for graduate school.
+          </p>
+          <p class="aside">
+            When I’m away from models and data, you’ll probably find me out in nature, reading a
+            sci-fi novel, binge-watching a good show, or a few moves into a game of chess.
           </p>
 
           <ul class="intro-links">
@@ -115,27 +129,13 @@
             <a href="https://today.uconn.edu/2024/11/us-flood-governance-drives-social-inequity-and-maybe-the-next-housing-market-crash/" target="_blank" rel="noopener">UConn Today</a>
           </p>
         </div>
-
-        <figure class="intro-photo">
-          <!-- EDIT: replace images/profile.png with a new photo (keep the filename) -->
-          <img src="images/profile.png" alt="Portrait of Sandeep Poudel outdoors" width="1369" height="1600">
-        </figure>
       </div>
 
-      <!-- Slowly drifting water surface. Each layer is two identical periods wide, so shifting by half loops seamlessly. -->
+      <!-- Two still, faint wave lines under the intro -->
       <div class="waves" aria-hidden="true">
-        <svg viewBox="0 0 2880 140" preserveAspectRatio="none">
-          <defs>
-            <linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
-              <stop offset="0" stop-color="currentColor" stop-opacity=".09"/>
-              <stop offset="1" stop-color="currentColor" stop-opacity="0"/>
-            </linearGradient>
-          </defs>
-          <path class="wave wave-1" d="M0 34 Q360 16 720 34 T1440 34 T2160 34 T2880 34"/>
-          <path class="wave wave-2" d="M0 56 Q180 42 360 56 T720 56 T1080 56 T1440 56 T1800 56 T2160 56 T2520 56 T2880 56"/>
-          <path class="wave wave-3" d="M0 76 Q120 66 240 76 T480 76 T720 76 T960 76 T1200 76 T1440 76 T1680 76 T1920 76 T2160 76 T2400 76 T2640 76 T2880 76"/>
-          <path class="wave wave-4" d="M0 94 Q90 86 180 94 T360 94 T540 94 T720 94 T900 94 T1080 94 T1260 94 T1440 94 T1620 94 T1800 94 T1980 94 T2160 94 T2340 94 T2520 94 T2700 94 T2880 94"/>
-          <path class="wave water" d="M0 94 Q90 86 180 94 T360 94 T540 94 T720 94 T900 94 T1080 94 T1260 94 T1440 94 T1620 94 T1800 94 T1980 94 T2160 94 T2340 94 T2520 94 T2700 94 T2880 94 L2880 140 L0 140 Z"/>
+        <svg viewBox="0 0 2880 64" preserveAspectRatio="none">
+          <path class="wave wave-2" d="M0 22 Q180 8 360 22 T720 22 T1080 22 T1440 22 T1800 22 T2160 22 T2520 22 T2880 22"/>
+          <path class="wave wave-4" d="M0 44 Q90 36 180 44 T360 44 T540 44 T720 44 T900 44 T1080 44 T1260 44 T1440 44 T1620 44 T1800 44 T1980 44 T2160 44 T2340 44 T2520 44 T2700 44 T2880 44"/>
         </svg>
       </div>
     </section>
@@ -162,8 +162,8 @@
             <article class="project">
               <p class="project-meta">Cornell · 2024 – now</p>
               <h3>Deep learning and hybrid hydrologic models</h3>
-              <p>Hybrid, differentiable models use a neural network to learn the parameters of a process-based hydrologic model, and are often built with parameters that change over time. Across 531 US basins, I showed that this extra flexibility isn't needed: time-varying parameters gave no predictive advantage, and a small network with static, basin-specific parameters matched an LSTM while staying interpretable.</p>
-              <p>I'm now developing a probabilistic streamflow prediction framework with deep learning and hybrid models, to support risk assessment of reservoir operations.</p>
+              <p>Hybrid, differentiable models use a neural network to learn the parameters of a process-based hydrologic model, and are often built with parameters that change over time. Across 531 US basins, I showed that this extra flexibility isn’t needed: time-varying parameters gave no predictive advantage, and a small network with static, basin-specific parameters matched an LSTM while staying interpretable.</p>
+              <p>I’m now developing a probabilistic streamflow prediction framework with deep learning and hybrid models, to support risk assessment of reservoir operations.</p>
               <p class="project-links">
                 <a href="https://hess.copernicus.org/articles/30/5173/2026/" target="_blank" rel="noopener">HESS 2026</a>
               </p>
@@ -198,7 +198,7 @@
               <article class="project">
                 <p class="project-meta">Cornell · 2025</p>
                 <h3>Streamflow prediction in ungauged basins</h3>
-                <p>Most of the world's rivers are ungauged or poorly gauged, and newer deep learning models have improved little on standard LSTMs for predicting them. I developed the Cross-Basin Attention LSTM (XBA-LSTM), which uses attention to share information across basins, and showed a meaningful improvement in ungauged-basin prediction across 531 CAMELS-US basins.</p>
+                <p>Most of the world’s rivers are ungauged or poorly gauged, and newer deep learning models have improved little on standard LSTMs for predicting them. I developed the Cross-Basin Attention LSTM (XBA-LSTM), which uses attention to share information across basins, and showed a meaningful improvement in ungauged-basin prediction across 531 CAMELS-US basins.</p>
                 <p class="project-links">
                   <a href="https://ui.adsabs.harvard.edu/abs/2025AGUFMH31R.1321P/abstract" target="_blank" rel="noopener">AGU 2025</a>
                   <a href="https://github.com/snpoudel/Attention-LSTM-PUB" target="_blank" rel="noopener">Code</a>
